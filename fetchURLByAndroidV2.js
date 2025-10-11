@@ -24,7 +24,7 @@ async function fetchURLByAndroid() {
   const playbackFile = process.cwd() + '/playback.xml'
   writeFile(playbackFile,
     `<?xml version="1.0" encoding="UTF-8"?>\n` +
-    `<tv generator-info-name="Tak" generator-info-url="https://github.com/develop202/migu_video/">\n`)
+    `<tv generator-info-name="Tak" generator-info-url="https://github.com/sunricloud/migu_video/">\n`)
 
   if (!date.getHours()) {
     // 0点刷新token
@@ -33,7 +33,7 @@ async function fetchURLByAndroid() {
 
   // 写入开头
   // appendFile(aptvPath, `#EXTM3U x-tvg-url="https://gitee.com/dream-deve/migu_video/raw/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
-  appendFile(path, `#EXTM3U x-tvg-url="https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
+  appendFile(path, `#EXTM3U x-tvg-url="https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontent.com/sunricloud/migu_video/refs/heads/main/playback.xml,https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
 
   // 分类列表
   for (let i = 0; i < datas.length; i++) {
