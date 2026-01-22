@@ -105,10 +105,13 @@
     <programme channel="CCTV1综合" start="20260122215320 +0800" stop="20260122220000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260122220000 +0800" stop="20260122223600 +0800">
+    <programme channel="CCTV1综合" start="20260122220000 +0800" stop="20260122223500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260122223600 +0800" stop="20260122235900 +0800">
+    <programme channel="CCTV1综合" start="20260122223500 +0800" stop="20260122231200 +0800">
+        <title lang="zh">礼仪中国-7</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260122231200 +0800" stop="20260122235900 +0800">
         <title lang="zh">山水间的家（第四季）-4</title>
     </programme>
     <channel id="CCTV2财经">
@@ -880,7 +883,7 @@
         <title lang="zh">本集提要-人民的选择-第23集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260122221700 +0800" stop="20260122230700 +0800">
-        <title lang="zh">人民的选择23/26</title>
+        <title lang="zh">人民的选择第23集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260122230700 +0800" stop="20260122235300 +0800">
         <title lang="zh">扫黑风暴第5集</title>
@@ -4158,7 +4161,7 @@
     <programme channel="广东卫视" start="20260122230500 +0800" stop="20260122234500 +0800">
         <title lang="zh">孤舟(2)</title>
     </programme>
-    <programme channel="广东卫视" start="20260122234500 +0800" stop="20260123000000 +0800">
+    <programme channel="广东卫视" start="20260122234500 +0800" stop="20260123002000 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4584,7 +4587,7 @@
     <programme channel="河北卫视" start="20260122233000 +0800" stop="20260122233500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260122233500 +0800" stop="20260123000000 +0800">
+    <programme channel="河北卫视" start="20260122233500 +0800" stop="20260123002100 +0800">
         <title lang="zh">人生之路原版(29）</title>
     </programme>
     <channel id="江西卫视">
@@ -10965,47 +10968,35 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260122000000 +0800" stop="20260122060000 +0800">
-        <title lang="zh">百变校巴十七</title>
+    <programme channel="嘉佳卡通" start="20260122000000 +0800" stop="20260122060500 +0800">
+        <title lang="zh">百变校巴十五</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122060000 +0800" stop="20260122085500 +0800">
+    <programme channel="嘉佳卡通" start="20260122060500 +0800" stop="20260122080500 +0800">
         <title lang="zh">超凡小英雄一</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122085500 +0800" stop="20260122110500 +0800">
-        <title lang="zh">超级飞侠十九</title>
+    <programme channel="嘉佳卡通" start="20260122080500 +0800" stop="20260122111000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄十</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122110500 +0800" stop="20260122131500 +0800">
+    <programme channel="嘉佳卡通" start="20260122111000 +0800" stop="20260122131500 +0800">
         <title lang="zh">喜羊羊与灰太狼之羊村守护者之十</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122131500 +0800" stop="20260122155500 +0800">
-        <title lang="zh">开心超人联盟之勇敢之城一</title>
+    <programme channel="嘉佳卡通" start="20260122131500 +0800" stop="20260122160000 +0800">
+        <title lang="zh">开心超人之勇敢之城二</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122155500 +0800" stop="20260122160000 +0800">
-        <title lang="zh">开心超人联盟之趣味小剧场</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260122160000 +0800" stop="20260122170500 +0800">
-        <title lang="zh">神奇阿呦之最强流星人</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260122170500 +0800" stop="20260122183000 +0800">
+    <programme channel="嘉佳卡通" start="20260122160000 +0800" stop="20260122182500 +0800">
         <title lang="zh">喜羊羊与灰太狼之羊村守护者之十一</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122183000 +0800" stop="20260122193000 +0800">
+    <programme channel="嘉佳卡通" start="20260122182500 +0800" stop="20260122193000 +0800">
         <title lang="zh">超级飞侠十九</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122193000 +0800" stop="20260122195900 +0800">
-        <title lang="zh">猪猪侠之超星五灵侠六</title>
+    <programme channel="嘉佳卡通" start="20260122193000 +0800" stop="20260122200400 +0800">
+        <title lang="zh">猪猪侠之超星五灵侠五</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122195900 +0800" stop="20260122200200 +0800">
-        <title lang="zh">《全运星推官七》-高亿翔</title>
+    <programme channel="嘉佳卡通" start="20260122200400 +0800" stop="20260122200700 +0800">
+        <title lang="zh">《全运星推官七》-张偲涵</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260122200200 +0800" stop="20260122200500 +0800">
-        <title lang="zh">《全运星推官七》-李铠迪</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260122200500 +0800" stop="20260122201000 +0800">
-        <title lang="zh">《全运星推官七》-秦誉宁</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260122201000 +0800" stop="20260123000000 +0800">
-        <title lang="zh">猪猪侠之超星五灵侠六</title>
+    <programme channel="嘉佳卡通" start="20260122200700 +0800" stop="20260123000000 +0800">
+        <title lang="zh">猪猪侠之超星五灵侠五</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
