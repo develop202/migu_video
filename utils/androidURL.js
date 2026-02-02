@@ -75,22 +75,36 @@ async function getAndroidURL(userId, token, pid, rateType) {
   const baseURL = "https://play.miguvideo.com/playurl/v1/play/playurl"
   let params = "?sign=" + result.sign + "&rateType=" + rateType
     + "&contId=" + pid + "&timestamp=" + timestramp + "&salt=" + result.salt
-    + "&flvEnable=true&super4k=true" + enableH265Str + enableHDRStr
+    + "&flvEnable=true&super4k=true" + (rateType == 9 ? "&ott=true" : "") + enableH265Str + enableHDRStr
   printDebug(`请求链接: ${baseURL + params}`)
   let respData = await fetchUrl(baseURL + params, {
     headers: headers
   })
 
+  printDebug(respData)
+
   if (respData.rid == 'TIPS_NEED_MEMBER') {
     printYellow("该账号没有会员 正在降低画质")
-
-    params = "?sign=" + result.sign + "&rateType=3"
+    let respRateType = parseInt(respData.body.urlInfo?.rateType) > 4 ? 4 : 3
+    params = "?sign=" + result.sign + "&rateType=" + respRateType
       + "&contId=" + pid + "&timestamp=" + timestramp + "&salt=" + result.salt
       + "&flvEnable=true&super4k=true" + enableH265Str + enableHDRStr
     printDebug(`请求链接: ${baseURL + params}`)
     respData = await fetchUrl(baseURL + params, {
       headers: headers
     })
+
+    if (respData.rid == 'TIPS_NEED_MEMBER') {
+      printYellow("账号非钻石会员 降低画质")
+
+      params = "?sign=" + result.sign + "&rateType=3"
+        + "&contId=" + pid + "&timestamp=" + timestramp + "&salt=" + result.salt
+        + "&flvEnable=true&super4k=true" + enableH265Str + enableHDRStr
+      printDebug(`请求链接: ${baseURL + params}`)
+      respData = await fetchUrl(baseURL + params, {
+        headers: headers
+      })
+    }
   }
 
   printDebug(respData)
