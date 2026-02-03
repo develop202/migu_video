@@ -28,8 +28,8 @@ async function updateTV(hours) {
   // txt
   writeFile(interfaceTXTPath, "")
 
-  if (!(hours % 24)) {
-    // 每24小时刷新token
+  if (!(hours % 720)) {
+    // 每720小时(一个月)刷新token
     if (userId != "" && token != "") {
       // if (mrefreshToken) {
       await refreshToken(userId, token) ? printGreen("token刷新成功") : printRed("token刷新失败")
