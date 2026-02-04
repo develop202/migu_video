@@ -154,6 +154,9 @@ async function getAllURL() {
         printGreen(`${i} ${sumChannel} ${channel?.title} 添加成功！`)
       }
     }
+
+    const updateTime = new Date(result?.timestamp)
+    console.log(`文件日期: ${updateTime.getFullYear()}-${updateTime.getMonth() + 1}-${updateTime.getDate()} ${String(updateTime.getHours()).padStart(2, "0")}:${String(updateTime.getMinutes()).padStart(2, "0")}:${String(updateTime.getSeconds()).padStart(2, "0")}`)
   })
   if (status != 0) {
     return status
@@ -161,8 +164,6 @@ async function getAllURL() {
   const m3u = channelsURLM3U.join("\n")
   const txt = channelsURLTXT.join("\n")
 
-  const updateTime = new Date(result?.timestamp)
-  console.log(`文件日期: ${updateTime.getFullYear()}-${updateTime.getMonth() + 1}-${updateTime.getDate()} ${String(updateTime.getHours()).padStart(2, "0")}:${String(updateTime.getMinutes()).padStart(2, "0")}:${String(updateTime.getSeconds()).padStart(2, "0")}`)
 
   printGreen(`本次共更新${sumChannel}个`)
   if (debug) {
