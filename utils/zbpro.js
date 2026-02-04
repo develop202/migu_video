@@ -63,7 +63,7 @@ async function getAllURL() {
     // console.log(result)
     // console.log(pro_gz)
     const result = JSON.parse(resultJSON)
-    if (result.timestamp == String(repoLinkUpdateTimestamp)) {
+    if (result.timestamp == repoLinkUpdateTimestamp) {
       status = 1
       return 1
     }
@@ -92,6 +92,9 @@ async function getAllURL() {
       for (const url of channel?.urls) {
         i += 1
         let decryptURL = AESdecrypt(url)
+        if (decryptURL.startsWith("sys_http")) {
+          decryptURL = decryptURL.replace("sys_", "")
+        }
         if (!decryptURL.startsWith("http")) {
           // printYellow(`${i} ${channel?.title} 格式错误, 过滤`)
           continue
@@ -138,6 +141,13 @@ async function getAllURL() {
         }
         const channelURLM3U = `#EXTINF:-1 tvg-id="${channel?.title}" tvg-name="${channel?.title}" tvg-logo="" group-title="${channel?.province}",${channel.title}\n${decryptURL}`
         const channelURLTXT = `${channel?.title},${decryptURL}`
+        if (sumChannel == 0) {
+          // 更新时间
+          const updateTime = new Date(result?.timestamp)
+          const updateTimeStr = `更新日期: ${updateTime.getFullYear()}-${updateTime.getMonth() + 1}-${updateTime.getDate()} ${String(updateTime.getHours()).padStart(2, "0")}:${String(updateTime.getMinutes()).padStart(2, "0")}:${String(updateTime.getSeconds()).padStart(2, "0")}`
+          channelsURLM3U.push(`#EXTINF:-1 tvg-id="${channel?.title}" tvg-name="${channel?.title}" tvg-logo="" group-title="${channel?.province}",${updateTimeStr}\n${decryptURL}`)
+          channelsURLTXT.push(`更新日期: ${updateTimeStr},${decryptURL}`)
+        }
         channelsURLM3U.push(channelURLM3U)
         channelsURLTXT.push(channelURLTXT)
         sumChannel += 1
@@ -150,6 +160,10 @@ async function getAllURL() {
   }
   const m3u = channelsURLM3U.join("\n")
   const txt = channelsURLTXT.join("\n")
+
+  const updateTime = new Date(result?.timestamp)
+  console.log(`文件日期: ${updateTime.getFullYear()}-${updateTime.getMonth() + 1}-${updateTime.getDate()} ${String(updateTime.getHours()).padStart(2, "0")}:${String(updateTime.getMinutes()).padStart(2, "0")}:${String(updateTime.getSeconds()).padStart(2, "0")}`)
+
   printGreen(`本次共更新${sumChannel}个`)
   if (debug) {
     Object.entries(domains)
