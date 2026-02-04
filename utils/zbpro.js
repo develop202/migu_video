@@ -84,11 +84,6 @@ async function getAllURL() {
       }
       channel.title = channel.title.replace("-", "");
 
-
-      if (channel?.province != lastChannelCate) {
-        channelsURLTXT.push(`${channel?.province},#genre#`)
-        lastChannelCate = channel?.province
-      }
       for (const url of channel?.urls) {
         i += 1
         let decryptURL = AESdecrypt(url)
@@ -138,6 +133,10 @@ async function getAllURL() {
             }
             // console.log(domain)
           }
+        }
+        if (channel?.province != lastChannelCate) {
+          channelsURLTXT.push(`${channel?.province},#genre#`)
+          lastChannelCate = channel?.province
         }
         const channelURLM3U = `#EXTINF:-1 tvg-id="${channel?.title}" tvg-name="${channel?.title}" tvg-logo="" group-title="${channel?.province}",${channel.title}\n${decryptURL}`
         const channelURLTXT = `${channel?.title},${decryptURL}`
