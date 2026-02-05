@@ -582,13 +582,13 @@
     <programme channel="CCTV5+体育赛事" start="20260205200500 +0800" stop="20260205203300 +0800">
         <title lang="zh">2025/2026英格兰足球超级联赛-第24轮集锦</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260205203300 +0800" stop="20260205213000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260205203300 +0800" stop="20260205213500 +0800">
         <title lang="zh">实况录像-2026年四大洲花样滑冰锦标赛 双人自由滑</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260205213000 +0800" stop="20260205232000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260205213500 +0800" stop="20260205231500 +0800">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-冰壶混双（挪威队—加拿大队）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260205232000 +0800" stop="20260205235900 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260205231500 +0800" stop="20260205235900 +0800">
         <title lang="zh">实况录像-2025/2026赛季斯诺克大师赛 2</title>
     </programme>
     <channel id="CCTV6电影">
@@ -748,7 +748,7 @@
         <title lang="zh">防务新观察-2026-36</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260205204330 +0800" stop="20260205211715 +0800">
-        <title lang="zh">军事纪实-2026-26</title>
+        <title lang="zh">军事纪实-2026-备播1</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260205211715 +0800" stop="20260205215315 +0800">
         <title lang="zh">砺剑-2026-6</title>
@@ -760,7 +760,7 @@
         <title lang="zh">破冰行动12/43</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260205233545 +0800" stop="20260205235900 +0800">
-        <title lang="zh">军事纪实-2026-26</title>
+        <title lang="zh">军事纪实-2026-备播1</title>
     </programme>
     <channel id="CCTV8电视剧">
         <display-name lang="zh">CCTV8电视剧</display-name>
@@ -868,7 +868,7 @@
         <title lang="zh">本集提要-生命树-第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205193000 +0800" stop="20260205202455 +0800">
-        <title lang="zh">生命树13/40</title>
+        <title lang="zh">生命树第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205202455 +0800" stop="20260205202955 +0800">
         <title lang="zh">本集提要-生命树-第14集</title>
@@ -4200,7 +4200,7 @@
     <programme channel="广东卫视" start="20260205230500 +0800" stop="20260205234500 +0800">
         <title lang="zh">孤舟(30)</title>
     </programme>
-    <programme channel="广东卫视" start="20260205234500 +0800" stop="20260206000000 +0800">
+    <programme channel="广东卫视" start="20260205234500 +0800" stop="20260206001500 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -9072,110 +9072,122 @@
     <channel id="辽宁广播电视台公共频道">
         <display-name lang="zh">辽宁广播电视台公共频道</display-name>
     </channel>
-    <programme channel="辽宁广播电视台公共频道" start="20260205000000 +0800" stop="20260205010500 +0800">
+    <programme channel="辽宁广播电视台公共频道" start="20260205000000 +0800" stop="20260205000500 +0800">
         <title lang="zh">剧场</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205010500 +0800" stop="20260205015500 +0800">
-        <title lang="zh">专题</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205000500 +0800" stop="20260205010500 +0800">
+        <title lang="zh">天龙八部</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205015500 +0800" stop="20260205022500 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205010500 +0800" stop="20260205021400 +0800">
+        <title lang="zh">天龙八部</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205022500 +0800" stop="20260205031500 +0800">
-        <title lang="zh">专题</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205021400 +0800" stop="20260205032300 +0800">
+        <title lang="zh">天龙八部</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205031500 +0800" stop="20260205034500 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205032300 +0800" stop="20260205035300 +0800">
+        <title lang="zh">天龙八部</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205034500 +0800" stop="20260205042500 +0800">
-        <title lang="zh">专题</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205035300 +0800" stop="20260205040100 +0800">
+        <title lang="zh">银龄宝典</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205042500 +0800" stop="20260205045500 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205040100 +0800" stop="20260205041100 +0800">
+        <title lang="zh">公共频道剧宣</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205045500 +0800" stop="20260205053600 +0800">
-        <title lang="zh">专题</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205053600 +0800" stop="20260205060600 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205060600 +0800" stop="20260205064800 +0800">
-        <title lang="zh">专题</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205064800 +0800" stop="20260205072000 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205072000 +0800" stop="20260205082200 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205082200 +0800" stop="20260205090400 +0800">
-        <title lang="zh">专题</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205090400 +0800" stop="20260205093400 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205093400 +0800" stop="20260205101500 +0800">
-        <title lang="zh">专题</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205101500 +0800" stop="20260205111700 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205111700 +0800" stop="20260205115700 +0800">
-        <title lang="zh">专题</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205115700 +0800" stop="20260205122900 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205122900 +0800" stop="20260205125900 +0800">
-        <title lang="zh">剧场</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205125900 +0800" stop="20260205134000 +0800">
-        <title lang="zh">专题</title>
-    </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205134000 +0800" stop="20260205140800 +0800">
+    <programme channel="辽宁广播电视台公共频道" start="20260205041100 +0800" stop="20260205043600 +0800">
         <title lang="zh">全民健康学院</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205140800 +0800" stop="20260205143800 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205043600 +0800" stop="20260205050600 +0800">
+        <title lang="zh">大染坊</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205143800 +0800" stop="20260205151800 +0800">
-        <title lang="zh">专题</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205050600 +0800" stop="20260205060800 +0800">
+        <title lang="zh">大染坊</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205151800 +0800" stop="20260205154800 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205060800 +0800" stop="20260205070900 +0800">
+        <title lang="zh">大染坊</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205154800 +0800" stop="20260205163000 +0800">
-        <title lang="zh">专题</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205070900 +0800" stop="20260205081100 +0800">
+        <title lang="zh">大染坊</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205163000 +0800" stop="20260205170200 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205081100 +0800" stop="20260205081200 +0800">
+        <title lang="zh">导视</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205170200 +0800" stop="20260205180500 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205081200 +0800" stop="20260205084600 +0800">
+        <title lang="zh">时光机</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205180500 +0800" stop="20260205183400 +0800">
+    <programme channel="辽宁广播电视台公共频道" start="20260205084600 +0800" stop="20260205091600 +0800">
+        <title lang="zh">雪中悍刀行</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205091600 +0800" stop="20260205101700 +0800">
+        <title lang="zh">雪中悍刀行</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205101700 +0800" stop="20260205111900 +0800">
+        <title lang="zh">雪中悍刀行</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205111900 +0800" stop="20260205121900 +0800">
+        <title lang="zh">雪中悍刀行</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205121900 +0800" stop="20260205122000 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205122000 +0800" stop="20260205124800 +0800">
         <title lang="zh">全民健康学院</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205183400 +0800" stop="20260205190600 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205124800 +0800" stop="20260205131800 +0800">
+        <title lang="zh">雪豹</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205190600 +0800" stop="20260205201000 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205131800 +0800" stop="20260205142000 +0800">
+        <title lang="zh">雪豹</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205201000 +0800" stop="20260205211200 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205142000 +0800" stop="20260205152000 +0800">
+        <title lang="zh">苍狼</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205211200 +0800" stop="20260205211500 +0800">
+    <programme channel="辽宁广播电视台公共频道" start="20260205152000 +0800" stop="20260205155000 +0800">
+        <title lang="zh">苍狼</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205155000 +0800" stop="20260205155100 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205155100 +0800" stop="20260205155900 +0800">
+        <title lang="zh">银龄宝典</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205155900 +0800" stop="20260205163300 +0800">
+        <title lang="zh">时光机</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205163300 +0800" stop="20260205170300 +0800">
+        <title lang="zh">雪豹</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205170300 +0800" stop="20260205180500 +0800">
+        <title lang="zh">雪豹</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205180500 +0800" stop="20260205190900 +0800">
+        <title lang="zh">苍狼</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205190900 +0800" stop="20260205193900 +0800">
+        <title lang="zh">苍狼</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205193900 +0800" stop="20260205194000 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205194000 +0800" stop="20260205194200 +0800">
         <title lang="zh">遇见辽宁</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205211500 +0800" stop="20260205222000 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205194200 +0800" stop="20260205201000 +0800">
+        <title lang="zh">全民健康学院</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205222000 +0800" stop="20260205232000 +0800">
-        <title lang="zh">剧场</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205201000 +0800" stop="20260205211500 +0800">
+        <title lang="zh">大染坊</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260205232000 +0800" stop="20260206000000 +0800">
-        <title lang="zh">专题</title>
+    <programme channel="辽宁广播电视台公共频道" start="20260205211500 +0800" stop="20260205221700 +0800">
+        <title lang="zh">大染坊</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205221700 +0800" stop="20260205232000 +0800">
+        <title lang="zh">大染坊</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205232000 +0800" stop="20260205233000 +0800">
+        <title lang="zh">公共频道剧宣</title>
+    </programme>
+    <programme channel="辽宁广播电视台公共频道" start="20260205233000 +0800" stop="20260206000000 +0800">
+        <title lang="zh">大染坊</title>
     </programme>
     <channel id="辽宁广播电视台生活频道">
         <display-name lang="zh">辽宁广播电视台生活频道</display-name>
@@ -10989,68 +11001,59 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260205000000 +0800" stop="20260205001200 +0800">
-        <title lang="zh">乌龙院笑传</title>
+    <programme channel="嘉佳卡通" start="20260205000000 +0800" stop="20260205060200 +0800">
+        <title lang="zh">小花仙之四时花语春夏</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205001200 +0800" stop="20260205060100 +0800">
-        <title lang="zh">超级飞侠十三</title>
+    <programme channel="嘉佳卡通" start="20260205060200 +0800" stop="20260205080500 +0800">
+        <title lang="zh">超级飞侠(三)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205060100 +0800" stop="20260205080300 +0800">
-        <title lang="zh">超级飞侠二</title>
+    <programme channel="嘉佳卡通" start="20260205080500 +0800" stop="20260205090200 +0800">
+        <title lang="zh">小花仙之四时花语春夏</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205080300 +0800" stop="20260205110800 +0800">
-        <title lang="zh">猪猪侠之功夫小英雄一</title>
+    <programme channel="嘉佳卡通" start="20260205090200 +0800" stop="20260205121200 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄(九)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205110800 +0800" stop="20260205111600 +0800">
-        <title lang="zh">飓风战魂WSA嘉年华全家出击</title>
+    <programme channel="嘉佳卡通" start="20260205121200 +0800" stop="20260205130900 +0800">
+        <title lang="zh">奇妙萌可之闪耀流星</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205111600 +0800" stop="20260205134100 +0800">
-        <title lang="zh">猪猪侠之功夫小英雄一</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260205134100 +0800" stop="20260205150000 +0800">
+    <programme channel="嘉佳卡通" start="20260205130900 +0800" stop="20260205154500 +0800">
         <title lang="zh">奶龙搞怪大作战</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205150000 +0800" stop="20260205151300 +0800">
-        <title lang="zh">嘉佳全能星-2026遇见中华诗词之美</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260205151300 +0800" stop="20260205160000 +0800">
-        <title lang="zh">奶龙搞怪大作战</title>
+    <programme channel="嘉佳卡通" start="20260205154500 +0800" stop="20260205160000 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
     </programme>
     <programme channel="嘉佳卡通" start="20260205160000 +0800" stop="20260205161400 +0800">
-        <title lang="zh">《嗨！小喇叭》-超级飞侠19</title>
+        <title lang="zh">嗨小喇叭-超级飞侠19</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205161400 +0800" stop="20260205165900 +0800">
+    <programme channel="嘉佳卡通" start="20260205161400 +0800" stop="20260205175100 +0800">
         <title lang="zh">奶龙之奇妙冒险</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205165900 +0800" stop="20260205183200 +0800">
+    <programme channel="嘉佳卡通" start="20260205175100 +0800" stop="20260205182800 +0800">
         <title lang="zh">奶龙搞怪大作战</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205183200 +0800" stop="20260205185900 +0800">
-        <title lang="zh">超级飞侠十九</title>
+    <programme channel="嘉佳卡通" start="20260205182800 +0800" stop="20260205185400 +0800">
+        <title lang="zh">超级飞侠(十九)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205185900 +0800" stop="20260205191200 +0800">
+    <programme channel="嘉佳卡通" start="20260205185400 +0800" stop="20260205190700 +0800">
         <title lang="zh">飓风战魂之旋力启源</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205191200 +0800" stop="20260205200400 +0800">
+    <programme channel="嘉佳卡通" start="20260205190700 +0800" stop="20260205202700 +0800">
         <title lang="zh">奇妙萌可之闪耀流星</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205200400 +0800" stop="20260205201700 +0800">
-        <title lang="zh">湾区少年行</title>
+    <programme channel="嘉佳卡通" start="20260205202700 +0800" stop="20260205210600 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄(七)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205201700 +0800" stop="20260205203200 +0800">
-        <title lang="zh">奇妙萌可之闪耀流星</title>
+    <programme channel="嘉佳卡通" start="20260205210600 +0800" stop="20260205210700 +0800">
+        <title lang="zh">2026遇见中华诗词之美-肖语汐</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205203200 +0800" stop="20260205211100 +0800">
-        <title lang="zh">猪猪侠之功夫小英雄一</title>
+    <programme channel="嘉佳卡通" start="20260205210700 +0800" stop="20260205210800 +0800">
+        <title lang="zh">2026遇见中华诗词之美-陈姿颖</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205211100 +0800" stop="20260205211300 +0800">
-        <title lang="zh">2026遇见中华诗词之美</title>
+    <programme channel="嘉佳卡通" start="20260205210800 +0800" stop="20260205225800 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄(七)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260205211300 +0800" stop="20260205230300 +0800">
-        <title lang="zh">猪猪侠之功夫小英雄一</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260205230300 +0800" stop="20260206000000 +0800">
-        <title lang="zh">乌龙院笑传二</title>
+    <programme channel="嘉佳卡通" start="20260205225800 +0800" stop="20260206000000 +0800">
+        <title lang="zh">乌龙院之活宝传奇</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
