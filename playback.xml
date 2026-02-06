@@ -450,11 +450,11 @@
     <programme channel="CCTV4中文国际" start="20260206223000 +0800" stop="20260206230330 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260206230330 +0800" stop="20260206234930 +0800">
-        <title lang="zh">红旗渠第5集</title>
+    <programme channel="CCTV4中文国际" start="20260206230330 +0800" stop="20260206233130 +0800">
+        <title lang="zh">平凡匠心-2026-19</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260206234930 +0800" stop="20260206235900 +0800">
-        <title lang="zh">红旗渠第6集</title>
+    <programme channel="CCTV4中文国际" start="20260206233130 +0800" stop="20260206235900 +0800">
+        <title lang="zh">红旗渠第5集</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
@@ -504,13 +504,13 @@
     <programme channel="CCTV5体育" start="20260206153000 +0800" stop="20260206160000 +0800">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会及冬残奥会转播报道-奔向米兰-5（4K）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260206160000 +0800" stop="20260206181000 +0800">
+    <programme channel="CCTV5体育" start="20260206160000 +0800" stop="20260206181800 +0800">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-花样滑冰团体</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260206181000 +0800" stop="20260206183500 +0800">
+    <programme channel="CCTV5体育" start="20260206181800 +0800" stop="20260206183000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260206183500 +0800" stop="20260206220000 +0800">
+    <programme channel="CCTV5体育" start="20260206183000 +0800" stop="20260206220000 +0800">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-花样滑冰团体</title>
     </programme>
     <programme channel="CCTV5体育" start="20260206220000 +0800" stop="20260206235900 +0800">
@@ -877,7 +877,7 @@
         <title lang="zh">本集提要-生命树-第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260206202955 +0800" stop="20260206212225 +0800">
-        <title lang="zh">生命树16/40</title>
+        <title lang="zh">生命树第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260206212225 +0800" stop="20260206212725 +0800">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第3集</title>
@@ -4473,7 +4473,7 @@
     <programme channel="河北卫视" start="20260206233900 +0800" stop="20260206234400 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260206234400 +0800" stop="20260207000000 +0800">
+    <programme channel="河北卫视" start="20260206234400 +0800" stop="20260207003700 +0800">
         <title lang="zh">我们的日子原版(21）</title>
     </programme>
     <channel id="江西卫视">
@@ -4539,7 +4539,7 @@
     <programme channel="江西卫视" start="20260206224000 +0800" stop="20260206233000 +0800">
         <title lang="zh">新闻夜航</title>
     </programme>
-    <programme channel="江西卫视" start="20260206233000 +0800" stop="20260207000000 +0800">
+    <programme channel="江西卫视" start="20260206233000 +0800" stop="20260207011500 +0800">
         <title lang="zh">精品剧场</title>
     </programme>
     <channel id="河南卫视">
@@ -4650,7 +4650,7 @@
     <programme channel="河南卫视" start="20260206230500 +0800" stop="20260206235200 +0800">
         <title lang="zh">晚间剧场:零炮楼(18)</title>
     </programme>
-    <programme channel="河南卫视" start="20260206235200 +0800" stop="20260207000000 +0800">
+    <programme channel="河南卫视" start="20260206235200 +0800" stop="20260207001900 +0800">
         <title lang="zh">武林风</title>
     </programme>
     <channel id="陕西卫视">
@@ -4749,7 +4749,7 @@
     <programme channel="陕西卫视" start="20260206220000 +0800" stop="20260206234000 +0800">
         <title lang="zh">延安游击队</title>
     </programme>
-    <programme channel="陕西卫视" start="20260206234000 +0800" stop="20260207000000 +0800">
+    <programme channel="陕西卫视" start="20260206234000 +0800" stop="20260207003500 +0800">
         <title lang="zh">延安游击队</title>
     </programme>
     <channel id="大湾区卫视">
@@ -4920,7 +4920,7 @@
     <programme channel="湖北卫视" start="20260206233000 +0800" stop="20260206233300 +0800">
         <title lang="zh">武松</title>
     </programme>
-    <programme channel="湖北卫视" start="20260206233300 +0800" stop="20260207000000 +0800">
+    <programme channel="湖北卫视" start="20260206233300 +0800" stop="20260207005900 +0800">
         <title lang="zh">大揭秘</title>
     </programme>
     <channel id="吉林卫视">
@@ -5037,7 +5037,7 @@
     <programme channel="吉林卫视" start="20260206232700 +0800" stop="20260206235700 +0800">
         <title lang="zh">凌晨剧场</title>
     </programme>
-    <programme channel="吉林卫视" start="20260206235700 +0800" stop="20260207000000 +0800">
+    <programme channel="吉林卫视" start="20260206235700 +0800" stop="20260207002300 +0800">
         <title lang="zh">凌晨剧场</title>
     </programme>
     <channel id="青海卫视">
@@ -5148,7 +5148,7 @@
     <programme channel="青海卫视" start="20260206223000 +0800" stop="20260206233000 +0800">
         <title lang="zh">龙斗UFC</title>
     </programme>
-    <programme channel="青海卫视" start="20260206233000 +0800" stop="20260207000000 +0800">
+    <programme channel="青海卫视" start="20260206233000 +0800" stop="20260207003000 +0800">
         <title lang="zh">龙斗天下</title>
     </programme>
     <channel id="东南卫视">
@@ -5334,7 +5334,7 @@
     <programme channel="海南卫视" start="20260206230300 +0800" stop="20260206230800 +0800">
         <title lang="zh">点赞海南</title>
     </programme>
-    <programme channel="海南卫视" start="20260206230800 +0800" stop="20260207000000 +0800">
+    <programme channel="海南卫视" start="20260206230800 +0800" stop="20260207001500 +0800">
         <title lang="zh">卫视高尔夫</title>
     </programme>
     <channel id="海峡卫视">
@@ -10881,58 +10881,64 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260206000000 +0800" stop="20260206060200 +0800">
-        <title lang="zh">小花仙之四时花语春夏</title>
+    <programme channel="嘉佳卡通" start="20260206000000 +0800" stop="20260206060100 +0800">
+        <title lang="zh">小花仙之四时花语秋</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206060200 +0800" stop="20260206080500 +0800">
+    <programme channel="嘉佳卡通" start="20260206060100 +0800" stop="20260206080300 +0800">
         <title lang="zh">超级飞侠(三)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206080500 +0800" stop="20260206090200 +0800">
+    <programme channel="嘉佳卡通" start="20260206080300 +0800" stop="20260206090000 +0800">
         <title lang="zh">小花仙之四时花语春夏</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206090200 +0800" stop="20260206121200 +0800">
-        <title lang="zh">猪猪侠之竞速小英雄(九)</title>
+    <programme channel="嘉佳卡通" start="20260206090000 +0800" stop="20260206121300 +0800">
+        <title lang="zh">猪猪侠之功夫小英雄(一)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206121200 +0800" stop="20260206130900 +0800">
+    <programme channel="嘉佳卡通" start="20260206121300 +0800" stop="20260206131000 +0800">
         <title lang="zh">奇妙萌可之闪耀流星</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206130900 +0800" stop="20260206154500 +0800">
-        <title lang="zh">奶龙搞怪大作战</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260206154500 +0800" stop="20260206160000 +0800">
+    <programme channel="嘉佳卡通" start="20260206131000 +0800" stop="20260206160000 +0800">
         <title lang="zh">奶龙与小七之大战暴暴龙</title>
     </programme>
     <programme channel="嘉佳卡通" start="20260206160000 +0800" stop="20260206161400 +0800">
         <title lang="zh">嗨小喇叭-超级飞侠19</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206161400 +0800" stop="20260206175100 +0800">
-        <title lang="zh">奶龙之奇妙冒险</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260206175100 +0800" stop="20260206182800 +0800">
+    <programme channel="嘉佳卡通" start="20260206161400 +0800" stop="20260206165900 +0800">
         <title lang="zh">奶龙搞怪大作战</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206182800 +0800" stop="20260206185400 +0800">
+    <programme channel="嘉佳卡通" start="20260206165900 +0800" stop="20260206170500 +0800">
+        <title lang="zh">嘉佳全能星-超值体验家-电视台体验2</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260206170500 +0800" stop="20260206182700 +0800">
+        <title lang="zh">奶龙搞怪大作战</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260206182700 +0800" stop="20260206185500 +0800">
         <title lang="zh">超级飞侠(十九)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206185400 +0800" stop="20260206190700 +0800">
+    <programme channel="嘉佳卡通" start="20260206185500 +0800" stop="20260206190800 +0800">
         <title lang="zh">飓风战魂之旋力启源</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206190700 +0800" stop="20260206202700 +0800">
-        <title lang="zh">奇妙萌可之闪耀流星</title>
+    <programme channel="嘉佳卡通" start="20260206190800 +0800" stop="20260206194400 +0800">
+        <title lang="zh">奶龙搞怪大作战(二)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206202700 +0800" stop="20260206210600 +0800">
+    <programme channel="嘉佳卡通" start="20260206194400 +0800" stop="20260206195600 +0800">
+        <title lang="zh">迷你特工队之最强恐龙</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260206195600 +0800" stop="20260206210500 +0800">
         <title lang="zh">猪猪侠之竞速小英雄(七)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206210600 +0800" stop="20260206210700 +0800">
-        <title lang="zh">2026遇见中华诗词之美-肖语汐</title>
+    <programme channel="嘉佳卡通" start="20260206210500 +0800" stop="20260206210800 +0800">
+        <title lang="zh">嗨!小喇叭-科小年俗</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206210700 +0800" stop="20260206210800 +0800">
-        <title lang="zh">2026遇见中华诗词之美-陈姿颖</title>
+    <programme channel="嘉佳卡通" start="20260206210800 +0800" stop="20260206210900 +0800">
+        <title lang="zh">2026遇见中华诗词之美-唐嘉琪</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206210800 +0800" stop="20260206225800 +0800">
+    <programme channel="嘉佳卡通" start="20260206210900 +0800" stop="20260206211000 +0800">
+        <title lang="zh">2026遇见中华诗词之美-郭廷谦</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260206211000 +0800" stop="20260206224900 +0800">
         <title lang="zh">猪猪侠之竞速小英雄(七)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260206225800 +0800" stop="20260207000000 +0800">
+    <programme channel="嘉佳卡通" start="20260206224900 +0800" stop="20260207000000 +0800">
         <title lang="zh">乌龙院之活宝传奇</title>
     </programme>
     <channel id="经典动画大集合">
