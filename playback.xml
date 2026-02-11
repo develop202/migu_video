@@ -87,10 +87,10 @@
     <programme channel="CCTV1综合" start="20260211193955 +0800" stop="20260211200600 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260211200600 +0800" stop="20260211214715 +0800">
+    <programme channel="CCTV1综合" start="20260211200600 +0800" stop="20260211214950 +0800">
         <title lang="zh">马到成功·中国年-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260211214715 +0800" stop="20260211220000 +0800">
+    <programme channel="CCTV1综合" start="20260211214950 +0800" stop="20260211220000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260211220000 +0800" stop="20260211223540 +0800">
@@ -561,10 +561,10 @@
     <programme channel="CCTV5+体育赛事" start="20260211170000 +0800" stop="20260211180000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 北欧两项男子个人标准台</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260211180000 +0800" stop="20260211183000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260211180000 +0800" stop="20260211183800 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子雪上技巧资格赛2</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260211183000 +0800" stop="20260211193000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260211183800 +0800" stop="20260211193000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 高山滑雪男子超级大回转</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260211193000 +0800" stop="20260211204500 +0800">
@@ -874,7 +874,7 @@
         <title lang="zh">本集提要-生命树-第26集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211202955 +0800" stop="20260211212225 +0800">
-        <title lang="zh">生命树26/40</title>
+        <title lang="zh">生命树第26集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211212225 +0800" stop="20260211212725 +0800">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第13集</title>
@@ -4548,7 +4548,7 @@
     <programme channel="河北卫视" start="20260211234700 +0800" stop="20260211235200 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260211235200 +0800" stop="20260212000000 +0800">
+    <programme channel="河北卫视" start="20260211235200 +0800" stop="20260212002200 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
     <channel id="江西卫视">
