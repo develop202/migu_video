@@ -145,7 +145,7 @@ async function getAllURL() {
           const updateTime = new Date(result?.timestamp + (8 * 60 * 60 * 1000))
           const updateTimeStr = `更新日期: ${updateTime.getFullYear()}-${updateTime.getMonth() + 1}-${updateTime.getDate()} ${String(updateTime.getHours()).padStart(2, "0")}:${String(updateTime.getMinutes()).padStart(2, "0")}:${String(updateTime.getSeconds()).padStart(2, "0")}`
           channelsURLM3U.push(`#EXTINF:-1 tvg-id="${channel?.title}" tvg-name="${channel?.title}" tvg-logo="" group-title="${channel?.province}",${updateTimeStr}\n${decryptURL}`)
-          channelsURLTXT.push(`更新日期: ${updateTimeStr},${decryptURL}`)
+          channelsURLTXT.push(`${updateTimeStr},${decryptURL}`)
         }
         channelsURLM3U.push(channelURLM3U)
         channelsURLTXT.push(channelURLTXT)

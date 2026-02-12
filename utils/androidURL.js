@@ -4,6 +4,7 @@ import { printDebug, printGreen, printRed, printYellow } from "./colorOut.js";
 import { fetchUrl } from "./net.js";
 import { enableH265, enableHDR } from "../config.js";
 
+const client_id = getStringMD5(Date.now().toString())
 /**
  * @typedef {object} SaltSign
  * @property {string} salt 盐值
@@ -149,7 +150,9 @@ async function getAndroidURL720p(pid) {
     AppVersion: `${appVersion}`,
     TerminalId: "android",
     "X-UP-CLIENT-CHANNEL-ID": `${appVersionID}`,
+    ClientId: client_id,
   }
+  printDebug("client_id: " + client_id)
   // cctv5和5+开启flv后不能回放
   if (pid != "641886683" && pid != "641886773") {
     headers["appCode"] = "miguvideo_default_android"
@@ -177,6 +180,7 @@ async function getAndroidURL720p(pid) {
     + "&contId=" + pid + "&timestamp=" + timestramp + "&salt=" + salt
     + "&flvEnable=true&super4k=true" + enableH265Str + enableHDRStr
   printDebug(`请求链接: ${baseURL + params}`)
+  printDebug(headers)
   const respData = await fetchUrl(baseURL + params, {
     headers: headers
   })
