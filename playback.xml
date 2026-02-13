@@ -531,10 +531,10 @@
     <programme channel="CCTV5体育" start="20260213150000 +0800" stop="20260213160000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 雪橇团体接力</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260213160000 +0800" stop="20260213190000 +0800">
+    <programme channel="CCTV5体育" start="20260213160000 +0800" stop="20260213192000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶男子 中国-挪威</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260213190000 +0800" stop="20260213200000 +0800">
+    <programme channel="CCTV5体育" start="20260213192000 +0800" stop="20260213200000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 越野滑雪男子自由式10公里</title>
     </programme>
     <programme channel="CCTV5体育" start="20260213200000 +0800" stop="20260213210000 +0800">
@@ -910,16 +910,16 @@
         <title lang="zh">星推荐-2026年2月-13</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260213192700 +0800" stop="20260213193000 +0800">
-        <title lang="zh">本集提要-生命树-29/40</title>
+        <title lang="zh">本集提要-生命树-第29集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260213193000 +0800" stop="20260213202455 +0800">
-        <title lang="zh">生命树29/40</title>
+        <title lang="zh">生命树第29集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260213202455 +0800" stop="20260213202955 +0800">
-        <title lang="zh">本集提要-生命树-30/40</title>
+        <title lang="zh">本集提要-生命树-第30集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260213202955 +0800" stop="20260213212225 +0800">
-        <title lang="zh">生命树30/40</title>
+        <title lang="zh">生命树第30集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260213212225 +0800" stop="20260213212725 +0800">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第17集</title>
@@ -1851,11 +1851,11 @@
     <programme channel="CCTV4美洲" start="20260213162000 +0800" stop="20260213162800 +0800">
         <title lang="zh">国家公园精彩片段-12</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260213162800 +0800" stop="20260213171400 +0800">
-        <title lang="zh">梦想城第22集</title>
+    <programme channel="CCTV4美洲" start="20260213162800 +0800" stop="20260213171300 +0800">
+        <title lang="zh">精彩音乐汇（海外版）-2026-44</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260213171400 +0800" stop="20260213180000 +0800">
-        <title lang="zh">梦想城第23集</title>
+    <programme channel="CCTV4美洲" start="20260213171300 +0800" stop="20260213180000 +0800">
+        <title lang="zh">动画城(四套)-2026-44</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260213180000 +0800" stop="20260213183000 +0800">
         <title lang="zh">中国新闻</title>
@@ -4506,7 +4506,7 @@
     <programme channel="河北卫视" start="20260213233800 +0800" stop="20260213234300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260213234300 +0800" stop="20260214000000 +0800">
+    <programme channel="河北卫视" start="20260213234300 +0800" stop="20260214001300 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
     <channel id="江西卫视">
