@@ -1,7 +1,10 @@
 央视频道,#genre#
-更新日期: 2026-2-14 20:09:32,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-2-14 20:59:10,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpubmigutv3://608807420
+CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpubmigutv3://608807420
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2财经,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
+CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpubmigutv3://624878271
+CCTV4中文国际,http://pull-hls-f11.douyincdn.com/media/stream-407084038026429100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771677327&major_anchor_level=common&sign=10aa1a66b810ca0b71d984c4061ab35a&t_id=037-20260214203526496B1DACAC8A096A68AA-kDDk3N
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 卫视频道,#genre#
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
@@ -13,6 +16,7 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
+辽宁卫视,http://pull-hls-f11.douyincdn.com/media/stream-118853253582553772.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771677880&major_anchor_level=common&sign=317017d5b1f131df1e41b8f846db596e&t_id=037-20260214204439F90766601161ABB3CC7C-TjxDiE
 辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
@@ -21,6 +25,8 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东地区,#genre#
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+广东体育,http://pull-hls-f26.douyincdn.com/media/stream-407084380078998188.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=6999ac03&major_anchor_level=common&sign=ee988c8305b4131fc03a520f537285cc&t_id=037-20260214205842485F1BDBE6FCB387CD58-YR5u62
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
@@ -86,6 +92,8 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+江苏地区,#genre#
+南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -128,8 +136,6 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 重庆地区,#genre#
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-四川地区,#genre#
-乐山文旅生活,http://channellive.leshantv.net/live/ch2.flv
 云南地区,#genre#
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 砚山县电视台,http://live.ynurl.com/video/s10020-ystv-zb/index.m3u8
@@ -300,9 +306,11 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 超清频道,#genre#
-CCTV1超清,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV1超清,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpubhttp://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1超清,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV2超清,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
+CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpubmigutv3://624878271
+CCTV4超清,http://pull-hls-f11.douyincdn.com/media/stream-407084038026429100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771677327&major_anchor_level=common&sign=10aa1a66b810ca0b71d984c4061ab35a&t_id=037-20260214203526496B1DACAC8A096A68AA-kDDk3N
 CCTV16超清,http://74.91.26.218:82/live/cctv16hd.m3u8
 湖南卫视超清,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视超清,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
@@ -313,10 +321,10 @@ CCTV16超清,http://74.91.26.218:82/live/cctv16hd.m3u8
 江苏卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
+辽宁卫视超清,http://pull-hls-f11.douyincdn.com/media/stream-118853253582553772.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771677880&major_anchor_level=common&sign=317017d5b1f131df1e41b8f846db596e&t_id=037-20260214204439F90766601161ABB3CC7C-TjxDiE
 辽宁卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 东南卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 河南卫视超清,http://pull-hls-f11.douyincdn.com/media/stream-695315145466839724.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771675718&major_anchor_level=common&sign=ac11a63f423866a14f340499d16d820e&t_id=037-20260214200838FABF0C668F35317370C9-7XsZ0Q
-河南卫视超清,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
