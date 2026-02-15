@@ -271,7 +271,7 @@
         <title lang="zh">2026欢欢喜喜过大年-3/4</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260215222805 +0800" stop="20260215225250 +0800">
-        <title lang="zh">2026欢欢喜喜过大年-4/4</title>
+        <title lang="zh">2026欢欢喜喜过大年-4</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260215225250 +0800" stop="20260215235900 +0800">
         <title lang="zh">2026年开门迎春晚-12</title>
@@ -471,16 +471,16 @@
     <programme channel="CCTV5体育" start="20260215143000 +0800" stop="20260215160000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子500米</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260215160000 +0800" stop="20260215170000 +0800">
+    <programme channel="CCTV5体育" start="20260215160000 +0800" stop="20260215171100 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 冰壶精选</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260215170000 +0800" stop="20260215180000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车女子单人第1轮</title>
+    <programme channel="CCTV5体育" start="20260215171100 +0800" stop="20260215182500 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧资格赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260215180000 +0800" stop="20260215185000 +0800">
+    <programme channel="CCTV5体育" start="20260215182500 +0800" stop="20260215190400 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子双人雪上技巧1/8、1/4、半决赛、铜牌赛、决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260215185000 +0800" stop="20260215200000 +0800">
+    <programme channel="CCTV5体育" start="20260215190400 +0800" stop="20260215200000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车女子单人第2轮</title>
     </programme>
     <programme channel="CCTV5体育" start="20260215200000 +0800" stop="20260215210500 +0800">
@@ -1417,7 +1417,7 @@
         <title lang="zh">2026欢欢喜喜过大年-3/4</title>
     </programme>
     <programme channel="CCTV15音乐" start="20260215222805 +0800" stop="20260215225420 +0800">
-        <title lang="zh">2026欢欢喜喜过大年-4/4</title>
+        <title lang="zh">2026欢欢喜喜过大年-4</title>
     </programme>
     <programme channel="CCTV15音乐" start="20260215225420 +0800" stop="20260215230020 +0800">
         <title lang="zh">中国节拍-品味古典56</title>
@@ -5121,7 +5121,7 @@
     <programme channel="东南卫视" start="20260215221400 +0800" stop="20260215231000 +0800">
         <title lang="zh">海峡新干线</title>
     </programme>
-    <programme channel="东南卫视" start="20260215231000 +0800" stop="20260216000000 +0800">
+    <programme channel="东南卫视" start="20260215231000 +0800" stop="20260216003600 +0800">
         <title lang="zh">精彩节目</title>
     </programme>
     <channel id="海南卫视">
