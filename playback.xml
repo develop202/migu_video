@@ -219,20 +219,20 @@
     <programme channel="CCTV2财经" start="20260217203928 +0800" stop="20260217211917 +0800">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260217211917 +0800" stop="20260217220222 +0800">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+    <programme channel="CCTV2财经" start="20260217211917 +0800" stop="20260217220218 +0800">
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260217220222 +0800" stop="20260217224547 +0800">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme channel="CCTV2财经" start="20260217220218 +0800" stop="20260217224543 +0800">
+        <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260217224547 +0800" stop="20260217231938 +0800">
+    <programme channel="CCTV2财经" start="20260217224543 +0800" stop="20260217231934 +0800">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260217231938 +0800" stop="20260217235329 +0800">
+    <programme channel="CCTV2财经" start="20260217231934 +0800" stop="20260217235325 +0800">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260217235329 +0800" stop="20260217235900 +0800">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    <programme channel="CCTV2财经" start="20260217235325 +0800" stop="20260217235900 +0800">
+        <title lang="zh">2026年春节联欢晚会-8</title>
     </programme>
     <channel id="CCTV3综艺">
         <display-name lang="zh">CCTV3综艺</display-name>
@@ -504,8 +504,11 @@
     <programme channel="CCTV5体育" start="20260217160000 +0800" stop="20260217190000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶男子 中国-美国</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260217190000 +0800" stop="20260217200000 +0800">
+    <programme channel="CCTV5体育" start="20260217190000 +0800" stop="20260217192000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会  短道速滑</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260217192000 +0800" stop="20260217200000 +0800">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 雪车女子单人第3轮</title>
     </programme>
     <programme channel="CCTV5体育" start="20260217200000 +0800" stop="20260217203000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会  自由式滑雪女子空中技巧资格赛</title>
@@ -576,17 +579,20 @@
     <programme channel="CCTV5+体育赛事" start="20260217161000 +0800" stop="20260217164000 +0800">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪女子大回转（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260217164000 +0800" stop="20260217174000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260217164000 +0800" stop="20260217174900 +0800">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1（4K）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260217174000 +0800" stop="20260217190000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子空中技巧资格赛</title>
+    <programme channel="CCTV5+体育赛事" start="20260217174900 +0800" stop="20260217183100 +0800">
+        <title lang="zh">冬奥典藏</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260217183100 +0800" stop="20260217190000 +0800">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会  速度滑冰</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260217190000 +0800" stop="20260217200000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会  自由式滑雪女子大跳台</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260217200000 +0800" stop="20260217213000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 单板滑雪女子坡面障碍技巧决赛</title>
+        <title lang="zh">2026年米兰-科尔蒂纳冬奥会 花样滑冰</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260217213000 +0800" stop="20260217215200 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子团体追逐半决赛1-2</title>
@@ -763,7 +769,7 @@
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260217234232 +0800" stop="20260217235900 +0800">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
     <channel id="CCTV8电视剧">
         <display-name lang="zh">CCTV8电视剧</display-name>
@@ -1581,13 +1587,13 @@
     <programme channel="CCTV17农业农村" start="20260217222911 +0800" stop="20260217225912 +0800">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦3/4</title>
     </programme>
-    <programme channel="CCTV17农业农村" start="20260217225912 +0800" stop="20260217232655 +0800">
-        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4/4</title>
+    <programme channel="CCTV17农业农村" start="20260217225912 +0800" stop="20260217232525 +0800">
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4</title>
     </programme>
-    <programme channel="CCTV17农业农村" start="20260217232655 +0800" stop="20260217235355 +0800">
+    <programme channel="CCTV17农业农村" start="20260217232525 +0800" stop="20260217235225 +0800">
         <title lang="zh">办年货 赶大集——CMG新春消费季活动-1</title>
     </programme>
-    <programme channel="CCTV17农业农村" start="20260217235355 +0800" stop="20260217235900 +0800">
+    <programme channel="CCTV17农业农村" start="20260217235225 +0800" stop="20260217235900 +0800">
         <title lang="zh">乡村剧场（栏目剧）-麻辣酸甜咸-22/52</title>
     </programme>
     <channel id="CCTV4欧洲">
@@ -1726,7 +1732,7 @@
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260217234547 +0800" stop="20260217235900 +0800">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
     <channel id="CCTV4美洲">
         <display-name lang="zh">CCTV4美洲</display-name>
@@ -1849,7 +1855,7 @@
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260217234547 +0800" stop="20260217235900 +0800">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
     <channel id="CGTN外语纪录">
         <display-name lang="zh">CGTN外语纪录</display-name>
