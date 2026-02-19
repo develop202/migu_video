@@ -526,25 +526,31 @@
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪空中技巧女子决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219164700 +0800" stop="20260219172700 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 冲刺赛预赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 短距离赛预赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219172700 +0800" stop="20260219175500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 冲刺赛预赛</title>
+    <programme channel="CCTV5体育" start="20260219172700 +0800" stop="20260219180300 +0800">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 短距离赛预赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260219175500 +0800" stop="20260219195500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子U型池资格赛1、2</title>
+    <programme channel="CCTV5体育" start="20260219180300 +0800" stop="20260219183500 +0800">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 北欧两项团体 跳台滑雪</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260219183500 +0800" stop="20260219190800 +0800">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260219190800 +0800" stop="20260219195500 +0800">
+        <title lang="zh">米兰之约</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219195500 +0800" stop="20260219202500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛半决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219202500 +0800" stop="20260219205200 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛半决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219205200 +0800" stop="20260219211200 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219211200 +0800" stop="20260219212000 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260219212000 +0800" stop="20260219223000 +0800">
         <title lang="zh">体育世界-全景米兰</title>
@@ -3774,7 +3780,7 @@
     <programme channel="辽宁广播电视台体育休闲频道" start="20260219214500 +0800" stop="20260219231100 +0800">
         <title lang="zh">智慧斗士</title>
     </programme>
-    <programme channel="辽宁广播电视台体育休闲频道" start="20260219231100 +0800" stop="20260220000000 +0800">
+    <programme channel="辽宁广播电视台体育休闲频道" start="20260219231100 +0800" stop="20260220005900 +0800">
         <title lang="zh">实况录像</title>
     </programme>
     <channel id="东方卫视">
@@ -3927,7 +3933,7 @@
     <programme channel="东方卫视" start="20260219230200 +0800" stop="20260219234400 +0800">
         <title lang="zh">玫瑰的故事(6)</title>
     </programme>
-    <programme channel="东方卫视" start="20260219234400 +0800" stop="20260220000000 +0800">
+    <programme channel="东方卫视" start="20260219234400 +0800" stop="20260220003000 +0800">
         <title lang="zh">玫瑰的故事(7)</title>
     </programme>
     <channel id="江苏卫视">
@@ -4245,7 +4251,7 @@
     <programme channel="北京卫视" start="20260219211500 +0800" stop="20260219231900 +0800">
         <title lang="zh">中国文学艺术界2026春节大联欢</title>
     </programme>
-    <programme channel="北京卫视" start="20260219231900 +0800" stop="20260220000000 +0800">
+    <programme channel="北京卫视" start="20260219231900 +0800" stop="20260220012000 +0800">
         <title lang="zh">拉萨春节藏历火马新年电视联欢会</title>
     </programme>
     <channel id="辽宁卫视">
@@ -5757,7 +5763,7 @@
     <programme channel="兵团卫视" start="20260219223000 +0800" stop="20260219233000 +0800">
         <title lang="zh">2026新疆国际春节联欢晚会</title>
     </programme>
-    <programme channel="兵团卫视" start="20260219233000 +0800" stop="20260220000000 +0800">
+    <programme channel="兵团卫视" start="20260219233000 +0800" stop="20260220010400 +0800">
         <title lang="zh">2026新疆国际春节联欢晚会</title>
     </programme>
     <channel id="宁夏卫视">
@@ -5880,7 +5886,7 @@
     <programme channel="宁夏卫视" start="20260219221000 +0800" stop="20260219231000 +0800">
         <title lang="zh">中国文学艺术界2026春节大联欢</title>
     </programme>
-    <programme channel="宁夏卫视" start="20260219231000 +0800" stop="20260220000000 +0800">
+    <programme channel="宁夏卫视" start="20260219231000 +0800" stop="20260220001000 +0800">
         <title lang="zh">中国文学艺术界2026春节大联欢</title>
     </programme>
     <channel id="重庆卫视">
@@ -5997,7 +6003,7 @@
     <programme channel="重庆卫视" start="20260219231400 +0800" stop="20260219235700 +0800">
         <title lang="zh">午夜剧场:追风者</title>
     </programme>
-    <programme channel="重庆卫视" start="20260219235700 +0800" stop="20260220000000 +0800">
+    <programme channel="重庆卫视" start="20260219235700 +0800" stop="20260220002300 +0800">
         <title lang="zh">风景区气象服务</title>
     </programme>
     <channel id="三沙卫视">
@@ -6249,7 +6255,7 @@
     <programme channel="上海新闻综合" start="20260219235200 +0800" stop="20260219235500 +0800">
         <title lang="zh">2017频道形象片</title>
     </programme>
-    <programme channel="上海新闻综合" start="20260219235500 +0800" stop="20260220000000 +0800">
+    <programme channel="上海新闻综合" start="20260219235500 +0800" stop="20260220053200 +0800">
         <title lang="zh">法制特勤组</title>
     </programme>
     <channel id="上视东方影视">
@@ -9195,7 +9201,7 @@
     <programme channel="辽宁广播电视台生活频道" start="20260219225000 +0800" stop="20260219233200 +0800">
         <title lang="zh">大城小事</title>
     </programme>
-    <programme channel="辽宁广播电视台生活频道" start="20260219233200 +0800" stop="20260220000000 +0800">
+    <programme channel="辽宁广播电视台生活频道" start="20260219233200 +0800" stop="20260220002600 +0800">
         <title lang="zh">名师高徒</title>
     </programme>
     <channel id="辽宁广播电视台影视剧频道">
@@ -9486,7 +9492,7 @@
     <programme channel="宁夏广播电视台文旅频道" start="20260219215500 +0800" stop="20260219221000 +0800">
         <title lang="zh">天天旅行汇</title>
     </programme>
-    <programme channel="宁夏广播电视台文旅频道" start="20260219221000 +0800" stop="20260220000000 +0800">
+    <programme channel="宁夏广播电视台文旅频道" start="20260219221000 +0800" stop="20260220023000 +0800">
         <title lang="zh">星空影院：亮剑</title>
     </programme>
     <channel id="宁夏广播电视台经济频道">
@@ -10632,7 +10638,7 @@
     <programme channel="山东教育" start="20260219225200 +0800" stop="20260219232700 +0800">
         <title lang="zh">孔子大学堂</title>
     </programme>
-    <programme channel="山东教育" start="20260219232700 +0800" stop="20260220000000 +0800">
+    <programme channel="山东教育" start="20260219232700 +0800" stop="20260220005500 +0800">
         <title lang="zh">红色影像馆</title>
     </programme>
     <channel id="熊猫频道01高清">
