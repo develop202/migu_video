@@ -522,8 +522,11 @@
     <programme channel="CCTV5体育" start="20260220140500 +0800" stop="20260220144000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 滑雪登山男子、女子冲刺赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260220144000 +0800" stop="20260220160000 +0800">
+    <programme channel="CCTV5体育" start="20260220144000 +0800" stop="20260220150000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 女子冰球决赛</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260220150000 +0800" stop="20260220160000 +0800">
+        <title lang="zh">2026年米兰科尔蒂纳冬奥会及冬残奥会转播报道-破冰吧！冠军</title>
     </programme>
     <programme channel="CCTV5体育" start="20260220160000 +0800" stop="20260220163000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子1500米</title>
@@ -1368,10 +1371,10 @@
     <programme channel="CCTV13新闻" start="20260220210000 +0800" stop="20260220213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260220213000 +0800" stop="20260220220500 +0800">
+    <programme channel="CCTV13新闻" start="20260220213000 +0800" stop="20260220220800 +0800">
         <title lang="zh">2026吾家吾国-3</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260220220500 +0800" stop="20260220223000 +0800">
+    <programme channel="CCTV13新闻" start="20260220220800 +0800" stop="20260220223000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260220223000 +0800" stop="20260220230000 +0800">
@@ -4569,7 +4572,7 @@
     <programme channel="江西卫视" start="20260220223500 +0800" stop="20260220233500 +0800">
         <title lang="zh">新闻夜航</title>
     </programme>
-    <programme channel="江西卫视" start="20260220233500 +0800" stop="20260221000000 +0800">
+    <programme channel="江西卫视" start="20260220233500 +0800" stop="20260221002700 +0800">
         <title lang="zh">决战江南</title>
     </programme>
     <channel id="河南卫视">
@@ -4680,7 +4683,7 @@
     <programme channel="河南卫视" start="20260220230500 +0800" stop="20260220235200 +0800">
         <title lang="zh">晚间剧场</title>
     </programme>
-    <programme channel="河南卫视" start="20260220235200 +0800" stop="20260221000000 +0800">
+    <programme channel="河南卫视" start="20260220235200 +0800" stop="20260221001900 +0800">
         <title lang="zh">武林风</title>
     </programme>
     <channel id="陕西卫视">
@@ -4773,7 +4776,7 @@
     <programme channel="陕西卫视" start="20260220212400 +0800" stop="20260220220000 +0800">
         <title lang="zh">华山论鉴</title>
     </programme>
-    <programme channel="陕西卫视" start="20260220220000 +0800" stop="20260221000000 +0800">
+    <programme channel="陕西卫视" start="20260220220000 +0800" stop="20260221001000 +0800">
         <title lang="zh">未央影院</title>
     </programme>
     <channel id="大湾区卫视">
@@ -4944,7 +4947,7 @@
     <programme channel="湖北卫视" start="20260220233300 +0800" stop="20260220235300 +0800">
         <title lang="zh">大揭秘</title>
     </programme>
-    <programme channel="湖北卫视" start="20260220235300 +0800" stop="20260221000000 +0800">
+    <programme channel="湖北卫视" start="20260220235300 +0800" stop="20260221001700 +0800">
         <title lang="zh">深夜剧场:激战</title>
     </programme>
     <channel id="吉林卫视">
@@ -5061,7 +5064,7 @@
     <programme channel="吉林卫视" start="20260220232700 +0800" stop="20260220235700 +0800">
         <title lang="zh">凌晨剧场</title>
     </programme>
-    <programme channel="吉林卫视" start="20260220235700 +0800" stop="20260221000000 +0800">
+    <programme channel="吉林卫视" start="20260220235700 +0800" stop="20260221002300 +0800">
         <title lang="zh">凌晨剧场</title>
     </programme>
     <channel id="青海卫视">
@@ -5172,7 +5175,7 @@
     <programme channel="青海卫视" start="20260220223000 +0800" stop="20260220233000 +0800">
         <title lang="zh">龙斗UFC</title>
     </programme>
-    <programme channel="青海卫视" start="20260220233000 +0800" stop="20260221000000 +0800">
+    <programme channel="青海卫视" start="20260220233000 +0800" stop="20260221003000 +0800">
         <title lang="zh">龙斗天下</title>
     </programme>
     <channel id="东南卫视">
@@ -5346,7 +5349,7 @@
     <programme channel="海南卫视" start="20260220225800 +0800" stop="20260220232000 +0800">
         <title lang="zh">潮起海之南</title>
     </programme>
-    <programme channel="海南卫视" start="20260220232000 +0800" stop="20260221000000 +0800">
+    <programme channel="海南卫视" start="20260220232000 +0800" stop="20260221001600 +0800">
         <title lang="zh">卫视高尔夫</title>
     </programme>
     <channel id="海峡卫视">
