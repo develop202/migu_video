@@ -519,8 +519,11 @@
     <programme channel="CCTV5体育" start="20260222140500 +0800" stop="20260222143000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子障碍追逐决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222143000 +0800" stop="20260222160000 +0800">
+    <programme channel="CCTV5体育" start="20260222143000 +0800" stop="20260222150000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子、女子集体出发</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260222150000 +0800" stop="20260222160000 +0800">
+        <title lang="zh">2026年米兰科尔蒂纳冬奥会及冬残奥会转播报道-破冰吧！冠军</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222160000 +0800" stop="20260222170000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 花样滑冰 表演滑</title>
@@ -529,7 +532,7 @@
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 男子4人第3轮</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222173000 +0800" stop="20260222191500 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型场地技巧决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222191500 +0800" stop="20260222195700 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车 男子4人第4轮</title>
@@ -4452,7 +4455,7 @@
     <programme channel="河北卫视" start="20260222233100 +0800" stop="20260222233700 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260222233700 +0800" stop="20260223000000 +0800">
+    <programme channel="河北卫视" start="20260222233700 +0800" stop="20260223003300 +0800">
         <title lang="zh">薄冰原版(33）</title>
     </programme>
     <channel id="江西卫视">
@@ -7509,7 +7512,7 @@
     <programme channel="盐城新闻综合" start="20260222225500 +0800" stop="20260222235000 +0800">
         <title lang="zh">首播:医路导航</title>
     </programme>
-    <programme channel="盐城新闻综合" start="20260222235000 +0800" stop="20260223000000 +0800">
+    <programme channel="盐城新闻综合" start="20260222235000 +0800" stop="20260223015700 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="淮安新闻综合">
@@ -7581,7 +7584,7 @@
     <programme channel="淮安新闻综合" start="20260222222800 +0800" stop="20260222224500 +0800">
         <title lang="zh">天气预报+淮安房产</title>
     </programme>
-    <programme channel="淮安新闻综合" start="20260222224500 +0800" stop="20260223000000 +0800">
+    <programme channel="淮安新闻综合" start="20260222224500 +0800" stop="20260223005600 +0800">
         <title lang="zh">星光剧场</title>
     </programme>
     <channel id="泰州新闻综合">
@@ -7656,7 +7659,7 @@
     <programme channel="泰州新闻综合" start="20260222222500 +0800" stop="20260222225000 +0800">
         <title lang="zh">健康好生活</title>
     </programme>
-    <programme channel="泰州新闻综合" start="20260222225000 +0800" stop="20260223000000 +0800">
+    <programme channel="泰州新闻综合" start="20260222225000 +0800" stop="20260223021000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="连云港新闻综合">
@@ -7746,7 +7749,7 @@
     <programme channel="连云港新闻综合" start="20260222223500 +0800" stop="20260222224000 +0800">
         <title lang="zh">主播说天气</title>
     </programme>
-    <programme channel="连云港新闻综合" start="20260222224000 +0800" stop="20260223000000 +0800">
+    <programme channel="连云港新闻综合" start="20260222224000 +0800" stop="20260223063000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="宿迁新闻综合">
@@ -7797,7 +7800,7 @@
     <programme channel="宿迁新闻综合" start="20260222193000 +0800" stop="20260222200000 +0800">
         <title lang="zh">宿迁新闻</title>
     </programme>
-    <programme channel="宿迁新闻综合" start="20260222200000 +0800" stop="20260223000000 +0800">
+    <programme channel="宿迁新闻综合" start="20260222200000 +0800" stop="20260223070000 +0800">
         <title lang="zh">晚间剧场</title>
     </programme>
     <channel id="徐州新闻综合">
@@ -7842,7 +7845,7 @@
     <programme channel="徐州新闻综合" start="20260222212200 +0800" stop="20260222213000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="徐州新闻综合" start="20260222213000 +0800" stop="20260223000000 +0800">
+    <programme channel="徐州新闻综合" start="20260222213000 +0800" stop="20260223061000 +0800">
         <title lang="zh">徐州夜新闻</title>
     </programme>
     <channel id="优漫卡通频道">
@@ -8034,7 +8037,7 @@
     <programme channel="江阴新闻综合" start="20260222232800 +0800" stop="20260222234300 +0800">
         <title lang="zh">第1房产</title>
     </programme>
-    <programme channel="江阴新闻综合" start="20260222234300 +0800" stop="20260223000000 +0800">
+    <programme channel="江阴新闻综合" start="20260222234300 +0800" stop="20260223000300 +0800">
         <title lang="zh">汽车时代</title>
     </programme>
     <channel id="南通新闻综合">
@@ -8094,7 +8097,7 @@
     <programme channel="南通新闻综合" start="20260222221100 +0800" stop="20260222224200 +0800">
         <title lang="zh">南通新闻</title>
     </programme>
-    <programme channel="南通新闻综合" start="20260222224200 +0800" stop="20260223000000 +0800">
+    <programme channel="南通新闻综合" start="20260222224200 +0800" stop="20260223002000 +0800">
         <title lang="zh">剧场</title>
     </programme>
     <channel id="宜兴新闻综合">
@@ -8160,7 +8163,7 @@
     <programme channel="宜兴新闻综合" start="20260222230500 +0800" stop="20260222232500 +0800">
         <title lang="zh">生活新干线</title>
     </programme>
-    <programme channel="宜兴新闻综合" start="20260222232500 +0800" stop="20260223000000 +0800">
+    <programme channel="宜兴新闻综合" start="20260222232500 +0800" stop="20260223084000 +0800">
         <title lang="zh">电视剧</title>
     </programme>
     <channel id="溧水新闻综合">
@@ -8946,7 +8949,7 @@
     <programme channel="镇江新闻综合" start="20260222224500 +0800" stop="20260222230000 +0800">
         <title lang="zh">房产报道</title>
     </programme>
-    <programme channel="镇江新闻综合" start="20260222230000 +0800" stop="20260223000000 +0800">
+    <programme channel="镇江新闻综合" start="20260222230000 +0800" stop="20260223065000 +0800">
         <title lang="zh">晚间剧场</title>
     </programme>
     <channel id="辽宁广播电视台公共频道">
