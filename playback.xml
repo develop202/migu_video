@@ -99,7 +99,10 @@
     <programme channel="CCTV1综合" start="20260224220000 +0800" stop="20260224223600 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260224223600 +0800" stop="20260224235900 +0800">
+    <programme channel="CCTV1综合" start="20260224223600 +0800" stop="20260224231015 +0800">
+        <title lang="zh">三餐四季春节特别节目-3</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260224231015 +0800" stop="20260224235900 +0800">
         <title lang="zh">宗师列传·大宋词人传-范仲淹</title>
     </programme>
     <channel id="CCTV2财经">
@@ -4407,7 +4410,7 @@
     <programme channel="辽宁卫视" start="20260224220000 +0800" stop="20260224230100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260224230100 +0800" stop="20260225000000 +0800">
+    <programme channel="辽宁卫视" start="20260224230100 +0800" stop="20260225000100 +0800">
         <title lang="zh">2026辽宁春节联欢晚会</title>
     </programme>
     <channel id="河北卫视">
@@ -4560,7 +4563,7 @@
     <programme channel="河北卫视" start="20260224233000 +0800" stop="20260224233500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260224233500 +0800" stop="20260225000000 +0800">
+    <programme channel="河北卫视" start="20260224233500 +0800" stop="20260225002900 +0800">
         <title lang="zh">潜渊原版(7）</title>
     </programme>
     <channel id="江西卫视">
