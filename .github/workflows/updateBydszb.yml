@@ -10,11 +10,11 @@ jobs:
     timeout-minutes: 30
     steps:
       - name: 检出
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: 创建Nodejs
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 24
       - name: 更新内容
         run: node fetchURLByzbpro.js
       - name: 推送
