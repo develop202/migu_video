@@ -408,11 +408,8 @@
     <programme channel="CCTV4中文国际" start="20260318190000 +0800" stop="20260318193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260318193000 +0800" stop="20260318200000 +0800">
+    <programme channel="CCTV4中文国际" start="20260318193000 +0800" stop="20260318203000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260318200000 +0800" stop="20260318203000 +0800">
-        <title lang="zh">记住乡愁2026-37</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260318203000 +0800" stop="20260318210000 +0800">
         <title lang="zh">海峡两岸-2026-77</title>
@@ -420,11 +417,8 @@
     <programme channel="CCTV4中文国际" start="20260318210000 +0800" stop="20260318213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260318213000 +0800" stop="20260318220000 +0800">
+    <programme channel="CCTV4中文国际" start="20260318213000 +0800" stop="20260318223000 +0800">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260318220000 +0800" stop="20260318223000 +0800">
-        <title lang="zh">走遍中国-2026-44</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260318223000 +0800" stop="20260318230230 +0800">
         <title lang="zh">新闻联播</title>
@@ -564,10 +558,10 @@
     <programme channel="CCTV5+体育赛事" start="20260318173000 +0800" stop="20260318190000 +0800">
         <title lang="zh">2026年世界女子冰壶锦标赛-循环赛10 B道（美国队—中国队）（录播）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260318190000 +0800" stop="20260318210000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260318190000 +0800" stop="20260318203300 +0800">
         <title lang="zh">2025/2026赛季中国排球超级联赛-女子总决赛排位赛（河南双汇—浙江西塘姚庄）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260318210000 +0800" stop="20260318223500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260318203300 +0800" stop="20260318223500 +0800">
         <title lang="zh">2025/2026赛季斯诺克世界公开赛-第3轮2</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260318223500 +0800" stop="20260318233500 +0800">
@@ -1809,11 +1803,8 @@
     <programme channel="CCTV4美洲" start="20260318190000 +0800" stop="20260318193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260318193000 +0800" stop="20260318200000 +0800">
+    <programme channel="CCTV4美洲" start="20260318193000 +0800" stop="20260318203000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260318200000 +0800" stop="20260318203000 +0800">
-        <title lang="zh">中国文艺-2026-54</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260318203000 +0800" stop="20260318210000 +0800">
         <title lang="zh">走遍中国-2026-43</title>
@@ -1821,17 +1812,17 @@
     <programme channel="CCTV4美洲" start="20260318210000 +0800" stop="20260318213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260318213000 +0800" stop="20260318220000 +0800">
+    <programme channel="CCTV4美洲" start="20260318213000 +0800" stop="20260318223000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260318220000 +0800" stop="20260318224500 +0800">
+    <programme channel="CCTV4美洲" start="20260318223000 +0800" stop="20260318230000 +0800">
+        <title lang="zh">记住乡愁2026-25</title>
+    </programme>
+    <programme channel="CCTV4美洲" start="20260318230000 +0800" stop="20260318234500 +0800">
         <title lang="zh">精彩音乐汇（海外版）-2026-71</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260318224500 +0800" stop="20260318233000 +0800">
+    <programme channel="CCTV4美洲" start="20260318234500 +0800" stop="20260318235900 +0800">
         <title lang="zh">动画城(四套)-2026-68</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260318233000 +0800" stop="20260318235900 +0800">
-        <title lang="zh">记住乡愁2026-25</title>
     </programme>
     <channel id="CGTN外语纪录">
         <display-name lang="zh">CGTN外语纪录</display-name>
@@ -4491,7 +4482,7 @@
     <programme channel="辽宁卫视" start="20260318230100 +0800" stop="20260318232800 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260318232800 +0800" stop="20260319000000 +0800">
+    <programme channel="辽宁卫视" start="20260318232800 +0800" stop="20260319002400 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4632,7 +4623,7 @@
     <programme channel="河北卫视" start="20260318233000 +0800" stop="20260318233800 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260318233800 +0800" stop="20260319000000 +0800">
+    <programme channel="河北卫视" start="20260318233800 +0800" stop="20260319002300 +0800">
         <title lang="zh">中国经济圆桌会(26001）</title>
     </programme>
     <channel id="江西卫视">
