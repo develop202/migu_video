@@ -1,5 +1,6 @@
 央视频道,#genre#
-更新日期: 2026-3-22 09:46:11,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-3-23 06:33:01,http://pull-hls-f11.douyincdn.com/media/stream-407294265065210540.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774823450&major_anchor_level=common&sign=c7abeab17fb9184ab7866d821877747a&t_id=037-20260323063050641A6B456F2EED1F226A-Ipb258
+CCTV1综合,http://pull-hls-f11.douyincdn.com/media/stream-407294265065210540.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774823450&major_anchor_level=common&sign=c7abeab17fb9184ab7866d821877747a&t_id=037-20260323063050641A6B456F2EED1F226A-Ipb258
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV16奥林匹克,http://69.30.246.194/live/cctv16.m3u8
@@ -83,6 +84,9 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+江苏地区,#genre#
+南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
@@ -295,6 +299,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 秦安电视台,https://play.kankanlive.com/live/1680577080200944.m3u8
 秦安电视台,http://play.kankanlive.com/live/1680577080200944.flv
 超清频道,#genre#
+CCTV1超清,http://pull-hls-f11.douyincdn.com/media/stream-407294265065210540.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774823450&major_anchor_level=common&sign=c7abeab17fb9184ab7866d821877747a&t_id=037-20260323063050641A6B456F2EED1F226A-Ipb258
 CCTV3超清,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV16超清,http://69.30.246.194/live/cctv16.m3u8
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
