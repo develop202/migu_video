@@ -1,16 +1,19 @@
 import { dataList } from "./fetchList.js"
 import { appendFile, appendFileSync, copyFileSync, renameFileSync, writeFile } from "./fileUtil.js"
 import { updatePlaybackData } from "./playback.js"
-import { /* refreshToken as mrefreshToken, */ host, pass, token, userId } from "../config.js"
+import { /* refreshToken as mrefreshToken, */ host, ignoreCategory, token, userId } from "../config.js"
 import refreshToken from "./refreshToken.js"
 import { printGreen, printRed, printYellow } from "./colorOut.js"
 import { getDateString } from "./time.js"
 import { fetchUrl } from "./net.js"
 
+// 忽略分类列表
+const ignoreCategorySet = new Set()
+
 /**
- * @param {Number} hours -更新小时数 
+ * @param {Number} _hours -更新小时数 
  */
-async function updateTV(hours) {
+async function updateTV(_hours) {
 
   const date = new Date()
   const start = date.getTime()
@@ -28,16 +31,6 @@ async function updateTV(hours) {
   // txt
   writeFile(interfaceTXTPath, "")
 
-  if (!(hours % 720)) {
-    // 每720小时(一个月)刷新token
-    if (userId != "" && token != "") {
-      // if (mrefreshToken) {
-      await refreshToken(userId, token) ? printGreen("token刷新成功") : printRed("token刷新失败")
-      // } else {
-      // printGreen(`跳过token刷新`)
-      // }
-    }
-  }
   appendFile(interfacePath, `#EXTM3U x-tvg-url="\${replace}/playback.xml" catchup="append" catchup-source="?playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
   printYellow("开始更新TV...")
   // 回放
@@ -48,6 +41,11 @@ async function updateTV(hours) {
 
   // 分类列表
   for (let i = 0; i < datas.length; i++) {
+    // 忽略分类
+    if (ignoreCategorySet.has(datas[i].name)) {
+      printYellow(`TV分类###:${datas[i].name} 已忽略！`)
+      continue
+    }
 
     const data = datas[i].dataList
     // txt
@@ -79,9 +77,9 @@ async function updateTV(hours) {
 }
 
 /**
- * @param {Number} hours -更新小时数 
+ * @param {Number} _hours -更新小时数 
  */
-async function updatePE(hours) {
+async function updatePE(_hours) {
 
   const date = new Date()
   const start = date.getTime()
@@ -101,12 +99,17 @@ async function updatePE(hours) {
   for (let i = 1; i < 4; i++) {
     // 日期
     const date = datas.body?.days[i]
-    let relativeDate = "昨天"
+    let relativeDate = `昨天${date.substring(4, 6)}-${date.substring(6, 8)}`
     const dateString = getDateString(new Date())
     if (date == dateString) {
-      relativeDate = "今天"
+      relativeDate = `今天${date.substring(4, 6)}-${date.substring(6, 8)}`
     } else if (parseInt(date) > parseInt(dateString)) {
-      relativeDate = "明天"
+      relativeDate = `明天${date.substring(4, 6)}-${date.substring(6, 8)}`
+    }
+    // 忽略分类
+    if (ignoreCategorySet.has(`体育-${relativeDate.substring(0, 2)}`)) {
+      printYellow(`PE分类###: 体育-${relativeDate}已忽略！`)
+      continue
     }
 
     appendFile(interfaceTXTPath, `体育-${relativeDate},#genre#\n`)
@@ -179,8 +182,63 @@ async function updatePE(hours) {
  * @param {Number} hours - 更新小时数
  */
 async function update(hours) {
-  await updateTV(hours)
-  await updatePE(hours)
+  // 处理忽略列表
+  if (ignoreCategory != null) {
+    if (ignoreCategory.indexOf(",") !== -1) {
+      const ignoreCategorySplit = ignoreCategory.split(",")
+      for (const categoryString of ignoreCategorySplit) {
+        if (categoryString != "") {
+          if (!ignoreCategorySet.has(categoryString)) {
+            ignoreCategorySet.add(categoryString)
+          }
+        }
+      }
+    } else if (ignoreCategory.indexOf("，") !== -1) {
+      const ignoreCategorySplit = ignoreCategory.split("，")
+      for (const categoryString of ignoreCategorySplit) {
+        if (categoryString != "") {
+          if (!ignoreCategorySet.has(categoryString)) {
+            ignoreCategorySet.add(categoryString)
+          }
+        }
+      }
+    } else {
+      ignoreCategorySet.add(ignoreCategory)
+    }
+  }
+
+  if (!(hours % 720)) {
+    // 每720小时(一个月)刷新token
+    if (userId != "" && token != "") {
+      // if (mrefreshToken) {
+      await refreshToken(userId, token) ? printGreen("token刷新成功") : printRed("token刷新失败")
+      // } else {
+      // printGreen(`跳过token刷新`)
+      // }
+    }
+  }
+
+  // 清空文件内容
+  const interfacePath = `${process.cwd()}/interface.txt`
+  const interfaceTXTPath = `${process.cwd()}/interfaceTXT.txt`
+  writeFile(interfacePath, "")
+  writeFile(interfaceTXTPath, "")
+
+  // m3u首行
+  appendFile(interfacePath, `#EXTM3U x-tvg-url="\${replace}/playback.xml" catchup="append" catchup-source="?playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
+
+  // 未设置TV
+  if (ignoreCategorySet.has("TV")) {
+    printYellow(`TV更新已忽略`)
+  } else {
+    await updateTV(hours)
+  }
+  // 未设置PE
+  if (ignoreCategorySet.has("PE")) {
+    printYellow(`PE更新已忽略`)
+  } else {
+    await updatePE(hours)
+  }
 }
 
 export default update

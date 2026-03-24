@@ -1,9 +1,92 @@
+import { customMergeCategory, mergeTVCategory } from "../config.js"
 import { fetchUrl } from "./net.js"
 
 function delay(ms) {
   return new Promise(resolve => {
     setTimeout(resolve, ms)
   })
+}
+
+
+// cates 大致结构
+// [
+//   {
+//     name: '央视',
+//     vomsID: '',
+//     fitArea: ['10000'],
+//     dataList: [
+//       {
+//         name: 'CCTV1综合',
+//         pID: '6'
+//       }
+//     ]
+//   }
+// ]
+// 合并分类
+function mergeCategory(cates) {
+  const processCategory = []
+  const otherCategory = {
+    name: '其他',
+    vomsID: '',
+    fitArea: ['10000'],
+    dataList: []
+  }
+  if (mergeTVCategory !== "false") {
+
+    for (const cate of cates) {
+      if (cate.dataList.length <= 11) {
+        for (const data of cate.dataList) {
+          otherCategory.dataList.push(data)
+        }
+
+      } else {
+        processCategory.push(cate)
+
+      }
+    }
+    processCategory.push(otherCategory)
+  } else if (customMergeCategory !== null) {
+    const customMergeCategorySet = new Set()
+
+    if (customMergeCategory.indexOf(",") !== -1) {
+      const customMergeCategorySplit = customMergeCategory.split(",")
+      for (const categoryString of customMergeCategorySplit) {
+        if (categoryString != "") {
+          if (!customMergeCategorySet.has(categoryString)) {
+            customMergeCategorySet.add(categoryString)
+          }
+        }
+      }
+    } else if (customMergeCategory.indexOf("，") !== -1) {
+      const customMergeCategorySplit = customMergeCategory.split("，")
+      for (const categoryString of customMergeCategorySplit) {
+        if (categoryString != "") {
+          if (!customMergeCategorySet.has(categoryString)) {
+            customMergeCategorySet.add(categoryString)
+          }
+        }
+      }
+    } else {
+      customMergeCategorySet.add(customMergeCategory)
+    }
+
+    for (const cate of cates) {
+      if (customMergeCategorySet.has(cate.name)) {
+        for (const data of cate.dataList) {
+          otherCategory.dataList.push(data)
+        }
+
+      } else {
+        processCategory.push(cate)
+
+      }
+    }
+    processCategory.push(otherCategory)
+  }
+  if (processCategory.length === 0) {
+    return cates
+  }
+  return processCategory
 }
 
 // 获取分类集合
@@ -40,6 +123,10 @@ async function dataList() {
 
   // 去除重复节目
   cates = uniqueData(cates)
+  // 合并分类
+  if (!mergeTVCategory !== "false") {
+    cates = mergeCategory(cates)
+  }
   // console.dir(cates, { depth: null })
   // console.log(cates)
   return cates
