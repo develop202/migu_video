@@ -43,7 +43,7 @@ async function updateTV(_hours) {
   for (let i = 0; i < datas.length; i++) {
     // 忽略分类
     if (ignoreCategorySet.has(datas[i].name)) {
-      printYellow(`TV分类###:${datas[i].name} 已忽略！`)
+      printYellow(`TV分类###:${datas[i].name} 已屏蔽！`)
       continue
     }
 
@@ -108,7 +108,7 @@ async function updatePE(_hours) {
     }
     // 忽略分类
     if (ignoreCategorySet.has(`体育-${relativeDate.substring(0, 2)}`)) {
-      printYellow(`PE分类###: 体育-${relativeDate}已忽略！`)
+      printYellow(`PE分类###: 体育-${relativeDate}已屏蔽！`)
       continue
     }
 
@@ -229,13 +229,13 @@ async function update(hours) {
 
   // 未设置TV
   if (ignoreCategorySet.has("TV")) {
-    printYellow(`TV更新已忽略`)
+    printYellow(`TV更新已屏蔽`)
   } else {
     await updateTV(hours)
   }
   // 未设置PE
   if (ignoreCategorySet.has("PE")) {
-    printYellow(`PE更新已忽略`)
+    printYellow(`PE更新已屏蔽`)
   } else {
     await updatePE(hours)
   }

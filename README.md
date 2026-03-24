@@ -46,7 +46,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/ref
 | menableHDR           | true   | boolean | 是否开启HDR                                                                                                                         |
 | menableH265          | true   | boolean | 是否开启h265(原画画质)，开启后可能存在兼容性问题，比如浏览器播放没有画面                                                            |
 | mupdateInterval      | 6      | string  | 节目信息更新间隔，单位小时，不建议设置太短                                                                                          |
-| mignoreCategory      | null   | string  | 忽略分类，每个分类名用逗号隔开<br>例如: 央视,卫视,体育-昨天,体育-明天<br>TV,体育-明天<br>ps: TV可以忽略所有电视，PE可以忽略所有体育 |
+| mignoreCategory      | null   | string  | 屏蔽分类，每个分类名用逗号隔开<br>例如: 央视,卫视,体育-昨天,体育-明天<br>TV,体育-明天<br>ps: TV可以屏蔽所有电视，PE可以屏蔽所有体育 |
 | mmergeTVCategory     | true   | boolean | 是否将TV节目数量较少的分类合并到其他分类                                                                                            |
 | mcustomMergeCategory | null   | string  | 自定义合并分类到其他分类，每个分类名用逗号隔开，需先将**变量mmergeTVCategory**设置**false**<br>格式: 熊猫,综艺,新闻                 |
 
