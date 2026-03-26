@@ -115,12 +115,14 @@ async function channel(url, urlUserId, urlToken) {
   }
   printDebug(`添加加密字段后链接 ${resObj.url}`)
 
-  if (resObj.url != "") {
-    const location = await get302URL(resObj)
-    if (location != "") {
-      resObj.url = location
-    }
-  }
+
+  // 可以正确跳转了 不需要再手动过滤了
+  // if (resObj.url != "") {
+  //   const location = await get302URL(resObj)
+  //   if (location != "") {
+  //     resObj.url = location
+  //   }
+  // }
   printLoginInfo(resObj)
   // printRed(resObj.url)
   printGreen(`添加节目缓存 ${pid}`)
