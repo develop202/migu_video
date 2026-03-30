@@ -88,8 +88,16 @@ async function updatePE(_hours) {
   printGreen("PE数据获取成功！")
   // console.dir(datas, { depth: null })
 
-  copyFileSync(`${process.cwd()}/interface.txt`, `${process.cwd()}/interface.txt.bak`, 0)
-  copyFileSync(`${process.cwd()}/interfaceTXT.txt`, `${process.cwd()}/interfaceTXT.txt.bak`, 0)
+  // 屏蔽所有TV分类
+  if (ignoreCategorySet.has("TV")) {
+    // 创建写入开头
+    writeFile(`${process.cwd()}/interface.txt.bak`, `#EXTM3U x-tvg-url="\${replace}/playback.xml" catchup="append" catchup-source="?playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
+    // txt
+    writeFile(`${process.cwd()}/interfaceTXT.txt.bak`, "")
+  } else {
+    copyFileSync(`${process.cwd()}/interface.txt`, `${process.cwd()}/interface.txt.bak`, 0)
+    copyFileSync(`${process.cwd()}/interfaceTXT.txt`, `${process.cwd()}/interfaceTXT.txt.bak`, 0)
+  }
 
   const interfacePath = `${process.cwd()}/interface.txt.bak`
   const interfaceTXTPath = `${process.cwd()}/interfaceTXT.txt.bak`
@@ -217,15 +225,6 @@ async function update(hours) {
       // }
     }
   }
-
-  // 清空文件内容
-  const interfacePath = `${process.cwd()}/interface.txt`
-  const interfaceTXTPath = `${process.cwd()}/interfaceTXT.txt`
-  writeFile(interfacePath, "")
-  writeFile(interfaceTXTPath, "")
-
-  // m3u首行
-  appendFile(interfacePath, `#EXTM3U x-tvg-url="\${replace}/playback.xml" catchup="append" catchup-source="?playbackbegin=\${(b)yyyyMMddHHmmss}&playbackend=\${(e)yyyyMMddHHmmss}"\n`)
 
   // 未设置TV
   if (ignoreCategorySet.has("TV")) {
