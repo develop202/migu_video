@@ -58,6 +58,15 @@ const server = http.createServer(async (req, res) => {
   // printGreen("")
   printMagenta("请求地址：" + url)
 
+  if (method === "HEAD") {
+    res.writeHead(200, {
+      "Content-Type": "application/json;charset=UTF-8",
+    });
+    res.end();
+    loading = false;
+    return;
+  }
+
   if (method != "GET") {
     res.writeHead(200, { 'Content-Type': 'application/json;charset=UTF-8' });
     res.end(JSON.stringify({
