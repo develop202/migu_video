@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",更新日期: 2026-4-13 09:08:14
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",更新日期: 2026-4-13 12:09:09
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
@@ -7,8 +7,6 @@ http://play.kankanlive.com/live/1698234869325962.m3u8
 http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视频道",CCTV13新闻
 http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776484602&major_anchor_level=common&sign=a5a34bdff07cfb060a010c0b632ce79b&t_id=037-202604111156410DCF4EC4BFF47B6D364C-f47Nti
-#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="央视频道",CCTV13新闻
-http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV16奥林匹克
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV16奥林匹克
@@ -163,8 +161,14 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-id="龙泉电视台" tvg-name="龙泉电视台" tvg-logo="" group-title="浙江地区",龙泉电视台
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="" group-title="江苏地区",南京文旅纪录
+http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 #EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" tvg-logo="" group-title="江苏地区",南京十八生活
 http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="" group-title="江苏地区",镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 tvg-id="镇江2" tvg-name="镇江2" tvg-logo="" group-title="江苏地区",镇江2
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
 https://rmplive.hljtv.com/live/haerbin.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
@@ -575,8 +579,6 @@ http://play.kankanlive.com/live/1680577080200944.flv
 http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
 #EXTINF:-1 tvg-id="CCTV13超清" tvg-name="CCTV13超清" tvg-logo="" group-title="超清频道",CCTV13超清
 http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776484602&major_anchor_level=common&sign=a5a34bdff07cfb060a010c0b632ce79b&t_id=037-202604111156410DCF4EC4BFF47B6D364C-f47Nti
-#EXTINF:-1 tvg-id="CCTV13超清" tvg-name="CCTV13超清" tvg-logo="" group-title="超清频道",CCTV13超清
-http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E
 #EXTINF:-1 tvg-id="CCTV16超清" tvg-name="CCTV16超清" tvg-logo="" group-title="超清频道",CCTV16超清
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV16超清" tvg-name="CCTV16超清" tvg-logo="" group-title="超清频道",CCTV16超清
