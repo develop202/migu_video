@@ -550,13 +550,13 @@
         <title lang="zh">足球之夜</title>
     </programme>
     <programme channel="CCTV5体育" start="20260423200000 +0800" stop="20260423213000 +0800">
-        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/8决赛等</title>
+        <title lang="zh">2025/2026赛季世界斯诺克锦标赛：司佳辉VS侯赛因·瓦非</title>
     </programme>
     <programme channel="CCTV5体育" start="20260423213000 +0800" stop="20260423220000 +0800">
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20260423220000 +0800" stop="20260423230500 +0800">
-        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/8决赛等</title>
+        <title lang="zh">2025/2026赛季世界斯诺克锦标赛：司佳辉VS侯赛因·瓦非</title>
     </programme>
     <programme channel="CCTV5体育" start="20260423230500 +0800" stop="20260423233500 +0800">
         <title lang="zh">2025/2026英格兰足球超级联赛-第33轮集锦（4K）</title>
@@ -2973,7 +2973,7 @@
     <programme channel="中学生" start="20260423223000 +0800" stop="20260423230000 +0800">
         <title lang="zh">《文艺名家讲故事》李心草</title>
     </programme>
-    <programme channel="中学生" start="20260423230000 +0800" stop="20260424000000 +0800">
+    <programme channel="中学生" start="20260423230000 +0800" stop="20260424080000 +0800">
         <title lang="zh">《希望之星》2023小低组</title>
     </programme>
     <channel id="CGTN">
@@ -3438,7 +3438,7 @@
     <programme channel="广东卫视" start="20260423225500 +0800" stop="20260423234000 +0800">
         <title lang="zh">上甘岭(24)</title>
     </programme>
-    <programme channel="广东卫视" start="20260423234000 +0800" stop="20260424000000 +0800">
+    <programme channel="广东卫视" start="20260423234000 +0800" stop="20260424004000 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -3846,7 +3846,7 @@
     <programme channel="河北卫视" start="20260423233000 +0800" stop="20260423233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260423233300 +0800" stop="20260424000000 +0800">
+    <programme channel="河北卫视" start="20260423233300 +0800" stop="20260424001300 +0800">
         <title lang="zh">毛泽东书信故事</title>
     </programme>
     <channel id="江西卫视">
@@ -8973,7 +8973,7 @@
     <programme channel="快乐垂钓" start="20260423202500 +0800" stop="20260423231000 +0800">
         <title lang="zh">快乐垂钓商城会员日（重播）</title>
     </programme>
-    <programme channel="快乐垂钓" start="20260423231000 +0800" stop="20260424000000 +0800">
+    <programme channel="快乐垂钓" start="20260423231000 +0800" stop="20260424011000 +0800">
         <title lang="zh">第三届黑坑拉力赛八强晋级赛（重播）</title>
     </programme>
     <channel id="经典香港电影">
@@ -9404,6 +9404,138 @@
     </programme>
     <programme channel="南方影视" start="20260423223500 +0800" stop="20260424003000 +0800">
         <title lang="zh">剧无霸经典剧场:与狼共舞2(23-25)</title>
+    </programme>
+    <channel id="中国航天“逆袭”之路">
+        <display-name lang="zh">中国航天“逆袭”之路</display-name>
+    </channel>
+    <programme channel="中国航天“逆袭”之路" start="20260423000000 +0800" stop="20260423002600 +0800">
+        <title lang="zh">《国家记忆》20161007 《钱学森与中国航天60年》系列 第一集 艰难归国路</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423002600 +0800" stop="20260423005300 +0800">
+        <title lang="zh">《国家记忆》20161017 《钱学森与中国航天60年》系列 第五集 巡天第一星</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423005300 +0800" stop="20260423011100 +0800">
+        <title lang="zh">人物故事20240925共和国的一支箭3</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423011100 +0800" stop="20260423013700 +0800">
+        <title lang="zh">航天英雄 杨利伟</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423013700 +0800" stop="20260423020700 +0800">
+        <title lang="zh">《飞向月球》01往事千年</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423020700 +0800" stop="20260423023700 +0800">
+        <title lang="zh">《飞向月球》02中国探月</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423023700 +0800" stop="20260423030700 +0800">
+        <title lang="zh">《飞向月球》03嫦娥落月</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423030700 +0800" stop="20260423033700 +0800">
+        <title lang="zh">《飞向月球》04月球背面</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423033700 +0800" stop="20260423040700 +0800">
+        <title lang="zh">《飞向月球》05自新大陆</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423040700 +0800" stop="20260423043100 +0800">
+        <title lang="zh">《飞向月球第二季》第一集：二兔子游记</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423043100 +0800" stop="20260423045500 +0800">
+        <title lang="zh">《飞向月球第二季》第二集：蟾宫挖宝</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423045500 +0800" stop="20260423051600 +0800">
+        <title lang="zh">《飞向月球第二季》第三集：满载而归</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423051600 +0800" stop="20260423060500 +0800">
+        <title lang="zh">《我们的征途》第01集</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423060500 +0800" stop="20260423065400 +0800">
+        <title lang="zh">《我们的征途》第02集</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423065400 +0800" stop="20260423074400 +0800">
+        <title lang="zh">《我们的征途》第03集</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423074400 +0800" stop="20260423081400 +0800">
+        <title lang="zh">《你好！火星》第1集：出发</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423081400 +0800" stop="20260423084400 +0800">
+        <title lang="zh">《你好！火星》第2集：征途</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423084400 +0800" stop="20260423091400 +0800">
+        <title lang="zh">《你好！火星》第3集：环绕</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423091400 +0800" stop="20260423094400 +0800">
+        <title lang="zh">《你好！火星》第4集：着陆</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423094400 +0800" stop="20260423101400 +0800">
+        <title lang="zh">《你好！火星》第5集：巡视</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423101400 +0800" stop="20260423110300 +0800">
+        <title lang="zh">《下一站，火星》第1集</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423110300 +0800" stop="20260423115200 +0800">
+        <title lang="zh">《下一站，火星》第2集</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423115200 +0800" stop="20260423123700 +0800">
+        <title lang="zh">探索无垠·中国载人航天三十年</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423123700 +0800" stop="20260423132600 +0800">
+        <title lang="zh">《天宫建造》01中国载人航天工程</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423132600 +0800" stop="20260423141600 +0800">
+        <title lang="zh">《天宫建造》02极限挑战</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423141600 +0800" stop="20260423150500 +0800">
+        <title lang="zh">《天宫建造》03梦天实验舱</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423150500 +0800" stop="20260423155400 +0800">
+        <title lang="zh">《天宫建造》04空间站</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423155400 +0800" stop="20260423164400 +0800">
+        <title lang="zh">《天宫建造》05天宫</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423164400 +0800" stop="20260423171100 +0800">
+        <title lang="zh">《国家记忆》20161007 《钱学森与中国航天60年》系列 第一集 艰难归国路</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423171100 +0800" stop="20260423173700 +0800">
+        <title lang="zh">《国家记忆》20161017 《钱学森与中国航天60年》系列 第五集 巡天第一星</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423173700 +0800" stop="20260423175500 +0800">
+        <title lang="zh">人物故事20240925共和国的一支箭3</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423175500 +0800" stop="20260423182100 +0800">
+        <title lang="zh">航天英雄 杨利伟</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423182100 +0800" stop="20260423185100 +0800">
+        <title lang="zh">《飞向月球》01往事千年</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423185100 +0800" stop="20260423192100 +0800">
+        <title lang="zh">《飞向月球》02中国探月</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423192100 +0800" stop="20260423195100 +0800">
+        <title lang="zh">《飞向月球》03嫦娥落月</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423195100 +0800" stop="20260423202100 +0800">
+        <title lang="zh">《飞向月球》04月球背面</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423202100 +0800" stop="20260423205100 +0800">
+        <title lang="zh">《飞向月球》05自新大陆</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423205100 +0800" stop="20260423211500 +0800">
+        <title lang="zh">《飞向月球第二季》第一集：二兔子游记</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423211500 +0800" stop="20260423213900 +0800">
+        <title lang="zh">《飞向月球第二季》第二集：蟾宫挖宝</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423213900 +0800" stop="20260423220000 +0800">
+        <title lang="zh">《飞向月球第二季》第三集：满载而归</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423220000 +0800" stop="20260423224900 +0800">
+        <title lang="zh">《我们的征途》第01集</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423224900 +0800" stop="20260423233800 +0800">
+        <title lang="zh">《我们的征途》第02集</title>
+    </programme>
+    <programme channel="中国航天“逆袭”之路" start="20260423233800 +0800" stop="20260424002800 +0800">
+        <title lang="zh">《我们的征途》第03集</title>
     </programme>
     <channel id="中国天气">
         <display-name lang="zh">中国天气</display-name>
@@ -9837,17 +9969,20 @@
     <channel id="CETV4">
         <display-name lang="zh">CETV4</display-name>
     </channel>
-    <programme channel="CETV4" start="20260422234000 +0800" stop="20260423001000 +0800">
-        <title lang="zh">疾风少年</title>
+    <programme channel="CETV4" start="20260423000000 +0800" stop="20260423001500 +0800">
+        <title lang="zh">夏天说体育</title>
     </programme>
-    <programme channel="CETV4" start="20260423001000 +0800" stop="20260423010000 +0800">
-        <title lang="zh">探索</title>
+    <programme channel="CETV4" start="20260423001500 +0800" stop="20260423004000 +0800">
+        <title lang="zh">体谈</title>
     </programme>
-    <programme channel="CETV4" start="20260423010000 +0800" stop="20260423013000 +0800">
+    <programme channel="CETV4" start="20260423004000 +0800" stop="20260423011000 +0800">
+        <title lang="zh">体育大思政课</title>
+    </programme>
+    <programme channel="CETV4" start="20260423011000 +0800" stop="20260423013000 +0800">
         <title lang="zh">闪耀职教</title>
     </programme>
     <programme channel="CETV4" start="20260423013000 +0800" stop="20260423020000 +0800">
-        <title lang="zh">数字体育潮</title>
+        <title lang="zh">球缘天下</title>
     </programme>
     <programme channel="CETV4" start="20260423020000 +0800" stop="20260423024500 +0800">
         <title lang="zh">职教中国</title>
@@ -9859,10 +9994,10 @@
         <title lang="zh">体谈</title>
     </programme>
     <programme channel="CETV4" start="20260423034500 +0800" stop="20260423044000 +0800">
-        <title lang="zh">探索</title>
+        <title lang="zh">一职为你</title>
     </programme>
     <programme channel="CETV4" start="20260423044000 +0800" stop="20260423051000 +0800">
-        <title lang="zh">数字体育潮</title>
+        <title lang="zh">球缘天下</title>
     </programme>
     <programme channel="CETV4" start="20260423051000 +0800" stop="20260423060000 +0800">
         <title lang="zh">职教中国</title>
@@ -9880,7 +10015,7 @@
         <title lang="zh">体谈</title>
     </programme>
     <programme channel="CETV4" start="20260423080000 +0800" stop="20260423083000 +0800">
-        <title lang="zh">国医名师课</title>
+        <title lang="zh">风驰电掣</title>
     </programme>
     <programme channel="CETV4" start="20260423083000 +0800" stop="20260423091500 +0800">
         <title lang="zh">一职为你</title>
@@ -9891,14 +10026,23 @@
     <programme channel="CETV4" start="20260423093000 +0800" stop="20260423100000 +0800">
         <title lang="zh">闪耀职教</title>
     </programme>
-    <programme channel="CETV4" start="20260423100000 +0800" stop="20260423110000 +0800">
+    <programme channel="CETV4" start="20260423100000 +0800" stop="20260423103000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20260423110000 +0800" stop="20260423120000 +0800">
+    <programme channel="CETV4" start="20260423103000 +0800" stop="20260423110000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20260423110000 +0800" stop="20260423113000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20260423120000 +0800" stop="20260423130000 +0800">
+    <programme channel="CETV4" start="20260423113000 +0800" stop="20260423120000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20260423120000 +0800" stop="20260423123000 +0800">
         <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="CETV4" start="20260423123000 +0800" stop="20260423130000 +0800">
+        <title lang="zh">美丽人生</title>
     </programme>
     <programme channel="CETV4" start="20260423130000 +0800" stop="20260423134000 +0800">
         <title lang="zh">职教中国</title>
@@ -9906,41 +10050,59 @@
     <programme channel="CETV4" start="20260423134000 +0800" stop="20260423140000 +0800">
         <title lang="zh">金牌体育课</title>
     </programme>
-    <programme channel="CETV4" start="20260423140000 +0800" stop="20260423150000 +0800">
+    <programme channel="CETV4" start="20260423140000 +0800" stop="20260423143000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20260423150000 +0800" stop="20260423160000 +0800">
+    <programme channel="CETV4" start="20260423143000 +0800" stop="20260423150000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20260423150000 +0800" stop="20260423153000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20260423160000 +0800" stop="20260423170000 +0800">
+    <programme channel="CETV4" start="20260423153000 +0800" stop="20260423160000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20260423160000 +0800" stop="20260423163000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20260423170000 +0800" stop="20260423180000 +0800">
+    <programme channel="CETV4" start="20260423163000 +0800" stop="20260423170000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20260423170000 +0800" stop="20260423173000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20260423180000 +0800" stop="20260423190000 +0800">
+    <programme channel="CETV4" start="20260423173000 +0800" stop="20260423180000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20260423180000 +0800" stop="20260423183000 +0800">
         <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="CETV4" start="20260423183000 +0800" stop="20260423190000 +0800">
+        <title lang="zh">美丽人生</title>
     </programme>
     <programme channel="CETV4" start="20260423190000 +0800" stop="20260423193000 +0800">
         <title lang="zh">e体资讯</title>
     </programme>
-    <programme channel="CETV4" start="20260423193000 +0800" stop="20260423220000 +0800">
+    <programme channel="CETV4" start="20260423193000 +0800" stop="20260423203000 +0800">
+        <title lang="zh">青春训练营</title>
+    </programme>
+    <programme channel="CETV4" start="20260423203000 +0800" stop="20260423213000 +0800">
+        <title lang="zh">青春训练营</title>
+    </programme>
+    <programme channel="CETV4" start="20260423213000 +0800" stop="20260423220000 +0800">
         <title lang="zh">青春训练营</title>
     </programme>
     <programme channel="CETV4" start="20260423220000 +0800" stop="20260423223000 +0800">
-        <title lang="zh">荣耀时刻</title>
+        <title lang="zh">等着我</title>
     </programme>
     <programme channel="CETV4" start="20260423223000 +0800" stop="20260423230000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20260423230000 +0800" stop="20260423233000 +0800">
+        <title lang="zh">荣耀时刻</title>
+    </programme>
+    <programme channel="CETV4" start="20260423233000 +0800" stop="20260424001000 +0800">
         <title lang="zh">动起来一起闪亮</title>
-    </programme>
-    <programme channel="CETV4" start="20260423230000 +0800" stop="20260423231500 +0800">
-        <title lang="zh">夏天说体育</title>
-    </programme>
-    <programme channel="CETV4" start="20260423231500 +0800" stop="20260423234000 +0800">
-        <title lang="zh">体谈</title>
-    </programme>
-    <programme channel="CETV4" start="20260423234000 +0800" stop="20260424001000 +0800">
-        <title lang="zh">疾风少年</title>
     </programme>
     <channel id="山东教育">
         <display-name lang="zh">山东教育</display-name>
