@@ -1251,11 +1251,11 @@
     <programme channel="CCTV13新闻" start="20260502033000 +0800" stop="20260502040000 +0800">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260502040000 +0800" stop="20260502043300 +0800">
+    <programme channel="CCTV13新闻" start="20260502040000 +0800" stop="20260502042400 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260502043300 +0800" stop="20260502050000 +0800">
-        <title lang="zh">新闻1+1</title>
+    <programme channel="CCTV13新闻" start="20260502042400 +0800" stop="20260502050000 +0800">
+        <title lang="zh">2026吾家吾国-7</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260502050000 +0800" stop="20260502051800 +0800">
         <title lang="zh">新闻直播间</title>
@@ -1317,13 +1317,13 @@
     <programme channel="CCTV13新闻" start="20260502210000 +0800" stop="20260502213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260502213000 +0800" stop="20260502221500 +0800">
-        <title lang="zh">新闻调查</title>
+    <programme channel="CCTV13新闻" start="20260502213000 +0800" stop="20260502220300 +0800">
+        <title lang="zh">2026吾家吾国-8</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260502221500 +0800" stop="20260502230000 +0800">
+    <programme channel="CCTV13新闻" start="20260502220300 +0800" stop="20260502224800 +0800">
         <title lang="zh">新闻周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260502230000 +0800" stop="20260502235900 +0800">
+    <programme channel="CCTV13新闻" start="20260502224800 +0800" stop="20260502235900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
