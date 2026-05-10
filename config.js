@@ -12,7 +12,7 @@ const host = process.env.mhost || ""
 // 2标清
 const rateType = process.env.mrateType || 3
 // 是否刷新token，可能是导致封号的原因
-// const refreshToken = process.env.mrefreshToken || true
+const refreshToken = process.env.mrefreshToken || false
 const debug = process.env.mdebug || false
 // 访问密码 大小写字母和数字 添加后访问格式 http://ip:port/mpass/...
 const pass = process.env.mpass || ""
@@ -29,4 +29,4 @@ const mergeTVCategory = process.env.mmergeTVCategory || true
 // 自定义合并分类，每个分类名用逗号隔开，需先将变量mignoreCategory设置false 格式: 熊猫,综艺,新闻
 const customMergeCategory = process.env.mcustomMergeCategory || null
 
-export { userId, token, port, host, rateType, debug/* , refreshToken */, pass, enableHDR, programInfoUpdateInterval, enableH265, ignoreCategory, mergeTVCategory, customMergeCategory }
+export { userId, token, port, host, rateType, debug, refreshToken, pass, enableHDR, programInfoUpdateInterval, enableH265, ignoreCategory, mergeTVCategory, customMergeCategory }

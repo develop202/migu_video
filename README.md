@@ -27,7 +27,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/ref
 > [!warning]
 > ⚠️注意事项
 >
-> 1. 登录后使用大概率封号，为避免不必要的损失，请谨慎登录使用
+> 1. 登录会封号！登录会封号！登录会封号！为避免不必要的损失，请谨慎登录使用
 > 1. 需要国内IP才可正常访问（非港澳台地区）
 
 ## 配置
