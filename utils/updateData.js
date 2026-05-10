@@ -1,7 +1,7 @@
 import { dataList } from "./fetchList.js"
 import { appendFile, appendFileSync, copyFileSync, renameFileSync, writeFile } from "./fileUtil.js"
 import { updatePlaybackData } from "./playback.js"
-import { refreshToken, host, ignoreCategory, token, userId } from "../config.js"
+import { mrefreshToken, host, ignoreCategory, token, userId } from "../config.js"
 import refreshToken from "./refreshToken.js"
 import { printGreen, printRed, printYellow } from "./colorOut.js"
 import { getDateString } from "./time.js"
@@ -218,7 +218,7 @@ async function update(hours) {
   if (!(hours % 720)) {
     // 每720小时(一个月)刷新token
     if (userId != "" && token != "") {
-      if (refreshToken) {
+      if (mrefreshToken) {
         await refreshToken(userId, token) ? printGreen("token刷新成功") : printRed("token刷新失败")
       } else {
         printGreen(`跳过token刷新`)
