@@ -1,5 +1,5 @@
 央视频道,#genre#
-更新日期: 2026-5-14 06:57:08,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260514064708&Channel_ID=0116_2600037000-99000-200300220104436&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.46&SecurityKey=20260514064708&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7d5d963afc03ad0feef7d659b23a537c
+更新日期: 2026-5-14 09:12:32,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260514064708&Channel_ID=0116_2600037000-99000-200300220104436&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.46&SecurityKey=20260514064708&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7d5d963afc03ad0feef7d659b23a537c
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260514064708&Channel_ID=0116_2600037000-99000-200300220104436&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.46&SecurityKey=20260514064708&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7d5d963afc03ad0feef7d659b23a537c
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260514064328&Channel_ID=0116_2600037000-99000-200300220104430&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.40&SecurityKey=20260514064328&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ea28c0dc65c04c1522356e1b8232d0e9
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260514064258&Channel_ID=0116_2600037000-99000-200300220104429&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.39&SecurityKey=20260514064258&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.4.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1eac928f857151bf7e494347e66521bf
@@ -114,6 +114,8 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 江苏地区,#genre#
+南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
@@ -171,6 +173,9 @@ CCTV17农业农村,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/
 石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8
 蒙自电视台,http://live.ynurl.com/video/s10019-mzdst/index.m3u8
 昌宁县电视台,http://live.ynurl.com/video/s10047-cntv/index.m3u8
+河北地区,#genre#
+保定1,http://live.bdgdw.com/channel1/sd/live.m3u8
+保定3,http://live.bdgdw.com/channel3/sd/live.m3u8
 福建地区,#genre#
 海峡卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 河南地区,#genre#
