@@ -1482,13 +1482,19 @@
     <programme channel="CCTV15音乐" start="20260702193000 +0800" stop="20260702204530 +0800">
         <title lang="zh">合唱先锋-2026-5</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260702204530 +0800" stop="20260702223100 +0800">
-        <title lang="zh">河海津韵-天津交响乐团音乐会</title>
+    <programme channel="CCTV15音乐" start="20260702204530 +0800" stop="20260702211139 +0800">
+        <title lang="zh">庆祝中国共产党成立105周年音乐会-1/3</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260702223100 +0800" stop="20260702234630 +0800">
+    <programme channel="CCTV15音乐" start="20260702211139 +0800" stop="20260702213108 +0800">
+        <title lang="zh">庆祝中国共产党成立105周年音乐会-2/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260702213108 +0800" stop="20260702220400 +0800">
+        <title lang="zh">庆祝中国共产党成立105周年音乐会-3/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260702220400 +0800" stop="20260702231930 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-260</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260702234630 +0800" stop="20260702235900 +0800">
+    <programme channel="CCTV15音乐" start="20260702231930 +0800" stop="20260702235900 +0800">
         <title lang="zh">CCTV音乐厅-2026-122-巨匠之声·古典音乐大师系列音乐会（5）</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -3123,35 +3129,35 @@
     <programme channel="东方卫视" start="20260701233500 +0800" stop="20260702001600 +0800">
         <title lang="zh">真心英雄(7)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702001600 +0800" stop="20260702005800 +0800">
+    <programme channel="东方卫视" start="20260702001600 +0800" stop="20260702003700 +0800">
         <title lang="zh">真心英雄(8)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702005800 +0800" stop="20260702014000 +0800">
+    <programme channel="东方卫视" start="20260702003700 +0800" stop="20260702012500 +0800">
+        <title lang="zh">真心英雄(3)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702012500 +0800" stop="20260702021500 +0800">
+        <title lang="zh">真心英雄(4)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702021500 +0800" stop="20260702025800 +0800">
+        <title lang="zh">真心英雄(5)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702025800 +0800" stop="20260702034100 +0800">
+        <title lang="zh">真心英雄(6)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702034100 +0800" stop="20260702042200 +0800">
+        <title lang="zh">真心英雄(7)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702042200 +0800" stop="20260702050400 +0800">
+        <title lang="zh">真心英雄(8)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702050400 +0800" stop="20260702054500 +0800">
         <title lang="zh">真心英雄(9)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702014000 +0800" stop="20260702022200 +0800">
+    <programme channel="东方卫视" start="20260702054500 +0800" stop="20260702062700 +0800">
         <title lang="zh">真心英雄(10)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702022200 +0800" stop="20260702030300 +0800">
+    <programme channel="东方卫视" start="20260702062700 +0800" stop="20260702070000 +0800">
         <title lang="zh">真心英雄(11)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702030300 +0800" stop="20260702034500 +0800">
-        <title lang="zh">真心英雄(12)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702034500 +0800" stop="20260702042700 +0800">
-        <title lang="zh">真心英雄(13)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702042700 +0800" stop="20260702050900 +0800">
-        <title lang="zh">真心英雄(14)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702050900 +0800" stop="20260702053900 +0800">
-        <title lang="zh">真心英雄(15)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702053900 +0800" stop="20260702061900 +0800">
-        <title lang="zh">真心英雄(16)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702061900 +0800" stop="20260702070000 +0800">
-        <title lang="zh">真心英雄(17)</title>
     </programme>
     <programme channel="东方卫视" start="20260702070000 +0800" stop="20260702070100 +0800">
         <title lang="zh">中华人民共和国国歌</title>
@@ -3162,17 +3168,17 @@
     <programme channel="东方卫视" start="20260702085900 +0800" stop="20260702090100 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260702090100 +0800" stop="20260702094400 +0800">
+    <programme channel="东方卫视" start="20260702090100 +0800" stop="20260702094600 +0800">
+        <title lang="zh">蛮好的人生(11)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702094600 +0800" stop="20260702102900 +0800">
         <title lang="zh">蛮好的人生(12)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702094400 +0800" stop="20260702102700 +0800">
+    <programme channel="东方卫视" start="20260702102900 +0800" stop="20260702111100 +0800">
         <title lang="zh">蛮好的人生(13)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702102700 +0800" stop="20260702111000 +0800">
+    <programme channel="东方卫视" start="20260702111100 +0800" stop="20260702120000 +0800">
         <title lang="zh">蛮好的人生(14)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702111000 +0800" stop="20260702120000 +0800">
-        <title lang="zh">蛮好的人生(15)</title>
     </programme>
     <programme channel="东方卫视" start="20260702120000 +0800" stop="20260702122600 +0800">
         <title lang="zh">午间30分</title>
@@ -3183,29 +3189,23 @@
     <programme channel="东方卫视" start="20260702123000 +0800" stop="20260702124200 +0800">
         <title lang="zh">ShanghaiEye</title>
     </programme>
-    <programme channel="东方卫视" start="20260702124200 +0800" stop="20260702132400 +0800">
-        <title lang="zh">甄嬛传(1)</title>
+    <programme channel="东方卫视" start="20260702124200 +0800" stop="20260702132700 +0800">
+        <title lang="zh">山花烂漫时(1)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702132400 +0800" stop="20260702140800 +0800">
-        <title lang="zh">甄嬛传(2)</title>
+    <programme channel="东方卫视" start="20260702132700 +0800" stop="20260702140900 +0800">
+        <title lang="zh">山花烂漫时(2)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702140800 +0800" stop="20260702145200 +0800">
-        <title lang="zh">甄嬛传(3)</title>
+    <programme channel="东方卫视" start="20260702140900 +0800" stop="20260702145100 +0800">
+        <title lang="zh">山花烂漫时(3)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702145200 +0800" stop="20260702153600 +0800">
-        <title lang="zh">甄嬛传(4)</title>
+    <programme channel="东方卫视" start="20260702145100 +0800" stop="20260702153300 +0800">
+        <title lang="zh">山花烂漫时(4)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702153600 +0800" stop="20260702161900 +0800">
-        <title lang="zh">甄嬛传(5)</title>
+    <programme channel="东方卫视" start="20260702153300 +0800" stop="20260702161600 +0800">
+        <title lang="zh">山花烂漫时(5)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702161900 +0800" stop="20260702170200 +0800">
-        <title lang="zh">甄嬛传(6)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702170200 +0800" stop="20260702172800 +0800">
-        <title lang="zh">东方新娱乐</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702172800 +0800" stop="20260702180000 +0800">
-        <title lang="zh">名医话养生</title>
+    <programme channel="东方卫视" start="20260702161600 +0800" stop="20260702180000 +0800">
+        <title lang="zh">山花烂漫时(6)</title>
     </programme>
     <programme channel="东方卫视" start="20260702180000 +0800" stop="20260702185700 +0800">
         <title lang="zh">东方新闻</title>
@@ -3213,22 +3213,22 @@
     <programme channel="东方卫视" start="20260702185700 +0800" stop="20260702190000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260702190000 +0800" stop="20260702193200 +0800">
+    <programme channel="东方卫视" start="20260702190000 +0800" stop="20260702193100 +0800">
         <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="东方卫视" start="20260702193200 +0800" stop="20260702201700 +0800">
-        <title lang="zh">家事法庭(21)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260702201700 +0800" stop="20260702205900 +0800">
+    <programme channel="东方卫视" start="20260702193100 +0800" stop="20260702201400 +0800">
         <title lang="zh">家事法庭(22)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702205900 +0800" stop="20260702210400 +0800">
-        <title lang="zh">精彩看点</title>
+    <programme channel="东方卫视" start="20260702201400 +0800" stop="20260702205500 +0800">
+        <title lang="zh">家事法庭(23)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702210400 +0800" stop="20260702210900 +0800">
+    <programme channel="东方卫视" start="20260702205500 +0800" stop="20260702210000 +0800">
+        <title lang="zh">明日精彩看点</title>
+    </programme>
+    <programme channel="东方卫视" start="20260702210000 +0800" stop="20260702210300 +0800">
         <title lang="zh">东方看大剧</title>
     </programme>
-    <programme channel="东方卫视" start="20260702210900 +0800" stop="20260702212000 +0800">
+    <programme channel="东方卫视" start="20260702210300 +0800" stop="20260702212000 +0800">
         <title lang="zh">江河作答伟大建党精神的上海答卷</title>
     </programme>
     <programme channel="东方卫视" start="20260702212000 +0800" stop="20260702215900 +0800">
@@ -3241,15 +3241,15 @@
         <title lang="zh">爱上海</title>
     </programme>
     <programme channel="东方卫视" start="20260702222700 +0800" stop="20260702225200 +0800">
-        <title lang="zh">1/7</title>
+        <title lang="zh">1/7(1129)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702225200 +0800" stop="20260702232200 +0800">
+    <programme channel="东方卫视" start="20260702225200 +0800" stop="20260702231300 +0800">
         <title lang="zh">成长的烦恼第一季(1)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702232200 +0800" stop="20260702235200 +0800">
+    <programme channel="东方卫视" start="20260702231300 +0800" stop="20260702233500 +0800">
         <title lang="zh">成长的烦恼第一季(2)</title>
     </programme>
-    <programme channel="东方卫视" start="20260702235200 +0800" stop="20260703002300 +0800">
+    <programme channel="东方卫视" start="20260702233500 +0800" stop="20260703002300 +0800">
         <title lang="zh">成长的烦恼第一季(3)</title>
     </programme>
     <channel id="江苏卫视">
@@ -3441,7 +3441,7 @@
     <programme channel="广东卫视" start="20260702230000 +0800" stop="20260702234500 +0800">
         <title lang="zh">绝密较量(6)</title>
     </programme>
-    <programme channel="广东卫视" start="20260702234500 +0800" stop="20260703000000 +0800">
+    <programme channel="广东卫视" start="20260702234500 +0800" stop="20260703001700 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
