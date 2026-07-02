@@ -477,10 +477,10 @@
     <programme channel="CCTV5体育" start="20260702000000 +0800" stop="20260702023000 +0800">
         <title lang="zh">2026世界杯-1/16决赛（英格兰— 刚果（金））</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260702023000 +0800" stop="20260702063000 +0800">
+    <programme channel="CCTV5体育" start="20260702023000 +0800" stop="20260702070000 +0800">
         <title lang="zh">2026世界杯-1/16决赛（比利时—塞内加尔）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260702063000 +0800" stop="20260702103000 +0800">
+    <programme channel="CCTV5体育" start="20260702070000 +0800" stop="20260702103000 +0800">
         <title lang="zh">2026世界杯-1/16决赛（美国—波黑）</title>
     </programme>
     <programme channel="CCTV5体育" start="20260702103000 +0800" stop="20260702120000 +0800">
@@ -3270,8 +3270,95 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260702000000 +0800" stop="20260702235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260701234100 +0800" stop="20260702000800 +0800">
+        <title lang="zh">刑警之海外行动</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702000800 +0800" stop="20260702002300 +0800">
+        <title lang="zh">阅读阅美第二季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702002300 +0800" stop="20260702011400 +0800">
+        <title lang="zh">纪录片:舌尖上的中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702011400 +0800" stop="20260702020600 +0800">
+        <title lang="zh">纪录片:舌尖上的中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702020600 +0800" stop="20260702025100 +0800">
+        <title lang="zh">纪录片:舌尖上的中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702025100 +0800" stop="20260702045900 +0800">
+        <title lang="zh">纪录片:记住乡愁</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702045900 +0800" stop="20260702055400 +0800">
+        <title lang="zh">昆仑决</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702055400 +0800" stop="20260702062700 +0800">
+        <title lang="zh">万家灯火</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702062700 +0800" stop="20260702070000 +0800">
+        <title lang="zh">纪录片：老广的味道</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702070000 +0800" stop="20260702072200 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702072200 +0800" stop="20260702080700 +0800">
+        <title lang="zh">早间剧场</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702080700 +0800" stop="20260702085600 +0800">
+        <title lang="zh">我爱古诗词</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702085600 +0800" stop="20260702094300 +0800">
+        <title lang="zh">上午剧场:北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702094300 +0800" stop="20260702103300 +0800">
+        <title lang="zh">上午剧场:北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702103300 +0800" stop="20260702111600 +0800">
+        <title lang="zh">上午剧场:北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702111600 +0800" stop="20260702120000 +0800">
+        <title lang="zh">上午剧场:北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702120000 +0800" stop="20260702123400 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702123400 +0800" stop="20260702142000 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702142000 +0800" stop="20260702162400 +0800">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702162400 +0800" stop="20260702170600 +0800">
+        <title lang="zh">下午剧场:北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702170600 +0800" stop="20260702180000 +0800">
+        <title lang="zh">下午剧场:北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702180000 +0800" stop="20260702183000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702183000 +0800" stop="20260702185200 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702185200 +0800" stop="20260702190000 +0800">
+        <title lang="zh">时空气象站</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702190000 +0800" stop="20260702193200 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702193200 +0800" stop="20260702202800 +0800">
+        <title lang="zh">迷墙（21）</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702202800 +0800" stop="20260702212000 +0800">
+        <title lang="zh">迷墙（22）</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702212000 +0800" stop="20260702224700 +0800">
+        <title lang="zh">你所不知道的水韵江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702224700 +0800" stop="20260702230400 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260702230400 +0800" stop="20260703000000 +0800">
+        <title lang="zh">怦然心动20岁</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
