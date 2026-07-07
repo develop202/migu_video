@@ -862,7 +862,7 @@
         <title lang="zh">本集提要-悬案-第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260707212940 +0800" stop="20260707221940 +0800">
-        <title lang="zh">悬案5/19</title>
+        <title lang="zh">悬案第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260707221940 +0800" stop="20260707222140 +0800">
         <title lang="zh">本集提要-岁月有情时-第3集</title>
@@ -1126,7 +1126,7 @@
         <title lang="zh">藏海传第7集</title>
     </programme>
     <programme channel="CCTV11戏曲" start="20260707190000 +0800" stop="20260707193000 +0800">
-        <title lang="zh">青春戏苑-2026-51亲历·评剧《花为媒》专辑</title>
+        <title lang="zh">青春戏苑-2026-201 缅怀李崇善先生专辑</title>
     </programme>
     <programme channel="CCTV11戏曲" start="20260707193000 +0800" stop="20260707214025 +0800">
         <title lang="zh">现代京剧电影  红灯记</title>
@@ -3831,7 +3831,7 @@
     <programme channel="河北卫视" start="20260707233000 +0800" stop="20260707233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260707233300 +0800" stop="20260708000000 +0800">
+    <programme channel="河北卫视" start="20260707233300 +0800" stop="20260708000800 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
@@ -5673,80 +5673,77 @@
     <channel id="上视东方影视">
         <display-name lang="zh">上视东方影视</display-name>
     </channel>
-    <programme channel="上视东方影视" start="20260706235200 +0800" stop="20260707004700 +0800">
+    <programme channel="上视东方影视" start="20260706235200 +0800" stop="20260707002500 +0800">
         <title lang="zh">44集连续剧：锻刀之绝地重生（35）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707004700 +0800" stop="20260707060800 +0800">
+    <programme channel="上视东方影视" start="20260707002500 +0800" stop="20260707061400 +0800">
         <title lang="zh">44集连续剧：锻刀之绝地重生（36）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707060800 +0800" stop="20260707070200 +0800">
+    <programme channel="上视东方影视" start="20260707061400 +0800" stop="20260707070300 +0800">
         <title lang="zh">33集连续剧：川军团血战到底（19）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707070200 +0800" stop="20260707080200 +0800">
+    <programme channel="上视东方影视" start="20260707070300 +0800" stop="20260707080300 +0800">
         <title lang="zh">33集连续剧：川军团血战到底（20）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707080200 +0800" stop="20260707090100 +0800">
+    <programme channel="上视东方影视" start="20260707080300 +0800" stop="20260707085400 +0800">
         <title lang="zh">39集连续剧：苦菜花（24）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707090100 +0800" stop="20260707095600 +0800">
+    <programme channel="上视东方影视" start="20260707085400 +0800" stop="20260707094700 +0800">
         <title lang="zh">39集连续剧：苦菜花（25）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707095600 +0800" stop="20260707105100 +0800">
+    <programme channel="上视东方影视" start="20260707094700 +0800" stop="20260707104000 +0800">
         <title lang="zh">39集连续剧：苦菜花（26）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707105100 +0800" stop="20260707114900 +0800">
+    <programme channel="上视东方影视" start="20260707104000 +0800" stop="20260707113400 +0800">
         <title lang="zh">39集连续剧：苦菜花（27）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707114900 +0800" stop="20260707124600 +0800">
+    <programme channel="上视东方影视" start="20260707113400 +0800" stop="20260707124100 +0800">
         <title lang="zh">39集连续剧：苦菜花（28）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707124600 +0800" stop="20260707133000 +0800">
+    <programme channel="上视东方影视" start="20260707124100 +0800" stop="20260707133000 +0800">
         <title lang="zh">47集连续剧：红娘子（23）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707133000 +0800" stop="20260707134500 +0800">
+    <programme channel="上视东方影视" start="20260707133000 +0800" stop="20260707134600 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707134500 +0800" stop="20260707143900 +0800">
+    <programme channel="上视东方影视" start="20260707134600 +0800" stop="20260707143900 +0800">
         <title lang="zh">47集连续剧：红娘子（24）</title>
     </programme>
     <programme channel="上视东方影视" start="20260707143900 +0800" stop="20260707153300 +0800">
         <title lang="zh">47集连续剧：红娘子（25）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707153300 +0800" stop="20260707162600 +0800">
+    <programme channel="上视东方影视" start="20260707153300 +0800" stop="20260707162500 +0800">
         <title lang="zh">30集连续剧：智者无敌（9）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707162600 +0800" stop="20260707171800 +0800">
+    <programme channel="上视东方影视" start="20260707162500 +0800" stop="20260707171700 +0800">
         <title lang="zh">30集连续剧：智者无敌（10）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707171800 +0800" stop="20260707180500 +0800">
+    <programme channel="上视东方影视" start="20260707171700 +0800" stop="20260707180800 +0800">
         <title lang="zh">30集连续剧：智者无敌（11）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707180500 +0800" stop="20260707185000 +0800">
+    <programme channel="上视东方影视" start="20260707180800 +0800" stop="20260707185000 +0800">
         <title lang="zh">30集连续剧：智者无敌（12）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707185000 +0800" stop="20260707193900 +0800">
+    <programme channel="上视东方影视" start="20260707185000 +0800" stop="20260707194000 +0800">
         <title lang="zh">39集连续剧：苦菜花（29）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707193900 +0800" stop="20260707203200 +0800">
+    <programme channel="上视东方影视" start="20260707194000 +0800" stop="20260707203300 +0800">
         <title lang="zh">39集连续剧：苦菜花（30）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707203200 +0800" stop="20260707212100 +0800">
+    <programme channel="上视东方影视" start="20260707203300 +0800" stop="20260707212500 +0800">
         <title lang="zh">39集连续剧：苦菜花（31）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707212100 +0800" stop="20260707220900 +0800">
+    <programme channel="上视东方影视" start="20260707212500 +0800" stop="20260707221200 +0800">
         <title lang="zh">39集连续剧：苦菜花（32）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707220900 +0800" stop="20260707230000 +0800">
+    <programme channel="上视东方影视" start="20260707221200 +0800" stop="20260707230300 +0800">
         <title lang="zh">39集连续剧：苦菜花（33）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707230000 +0800" stop="20260707233700 +0800">
+    <programme channel="上视东方影视" start="20260707230300 +0800" stop="20260707234300 +0800">
         <title lang="zh">44集连续剧：锻刀之绝地重生（37）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260707233700 +0800" stop="20260707235300 +0800">
+    <programme channel="上视东方影视" start="20260707234300 +0800" stop="20260708002500 +0800">
         <title lang="zh">44集连续剧：锻刀之绝地重生（38）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20260707235300 +0800" stop="20260708060800 +0800">
-        <title lang="zh">44集连续剧：锻刀之绝地重生（39）</title>
     </programme>
     <channel id="上海第一财经">
         <display-name lang="zh">上海第一财经</display-name>
