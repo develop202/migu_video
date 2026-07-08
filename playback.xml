@@ -465,11 +465,8 @@
     <programme channel="CCTV5体育" start="20260708000000 +0800" stop="20260708023000 +0800">
         <title lang="zh">2026世界杯-1/8决赛（阿根廷—埃及）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260708023000 +0800" stop="20260708063000 +0800">
+    <programme channel="CCTV5体育" start="20260708023000 +0800" stop="20260708070000 +0800">
         <title lang="zh">2026世界杯-1/8决赛（瑞士—哥伦比亚）</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260708063000 +0800" stop="20260708070000 +0800">
-        <title lang="zh">燃动金杯-2026年世界杯小组赛第一轮进球集锦</title>
     </programme>
     <programme channel="CCTV5体育" start="20260708070000 +0800" stop="20260708073000 +0800">
         <title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
@@ -477,8 +474,11 @@
     <programme channel="CCTV5体育" start="20260708073000 +0800" stop="20260708080000 +0800">
         <title lang="zh">燃动金杯-2026年世界杯1/16决赛进球集锦</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260708080000 +0800" stop="20260708093000 +0800">
+    <programme channel="CCTV5体育" start="20260708080000 +0800" stop="20260708092500 +0800">
         <title lang="zh">实况录像-2026世界杯 1/8决赛 葡萄牙队-西班牙队</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260708092500 +0800" stop="20260708093000 +0800">
+        <title lang="zh">健身动起来-2026-126</title>
     </programme>
     <programme channel="CCTV5体育" start="20260708093000 +0800" stop="20260708110000 +0800">
         <title lang="zh">2027年国际篮联世界杯预选赛-中国队—中国台北队（4K）</title>
