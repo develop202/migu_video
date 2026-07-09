@@ -1356,10 +1356,10 @@
     <programme channel="CCTV13新闻" start="20260709210000 +0800" stop="20260709213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260709213000 +0800" stop="20260709220000 +0800">
-        <title lang="zh">新闻1+1</title>
+    <programme channel="CCTV13新闻" start="20260709213000 +0800" stop="20260709221500 +0800">
+        <title lang="zh">面对面</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260709220000 +0800" stop="20260709223000 +0800">
+    <programme channel="CCTV13新闻" start="20260709221500 +0800" stop="20260709223000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260709223000 +0800" stop="20260709230000 +0800">
@@ -3447,7 +3447,7 @@
     <programme channel="广东卫视" start="20260709230000 +0800" stop="20260709234500 +0800">
         <title lang="zh">绝密较量(20)</title>
     </programme>
-    <programme channel="广东卫视" start="20260709234500 +0800" stop="20260710000000 +0800">
+    <programme channel="广东卫视" start="20260709234500 +0800" stop="20260710002000 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -3720,7 +3720,7 @@
     <programme channel="辽宁卫视" start="20260709230300 +0800" stop="20260709233700 +0800">
         <title lang="zh">纪录片(上)</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260709233700 +0800" stop="20260710000000 +0800">
+    <programme channel="辽宁卫视" start="20260709233700 +0800" stop="20260710003600 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
