@@ -979,7 +979,7 @@
         <title lang="zh">魅力万象2026-197</title>
     </programme>
     <programme channel="CCTV9纪录" start="20260716192700 +0800" stop="20260716200000 +0800">
-        <title lang="zh">活力·源2026-197</title>
+        <title lang="zh">活力·源2026-192</title>
     </programme>
     <programme channel="CCTV9纪录" start="20260716200000 +0800" stop="20260716210000 +0800">
         <title lang="zh">特别呈现2026-197</title>
@@ -3414,7 +3414,7 @@
     <programme channel="广东卫视" start="20260716230500 +0800" stop="20260716234500 +0800">
         <title lang="zh">秋蝉(6)</title>
     </programme>
-    <programme channel="广东卫视" start="20260716234500 +0800" stop="20260717000000 +0800">
+    <programme channel="广东卫视" start="20260716234500 +0800" stop="20260717001400 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -3687,7 +3687,7 @@
     <programme channel="辽宁卫视" start="20260716230300 +0800" stop="20260716233700 +0800">
         <title lang="zh">纪录片(上)</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260716233700 +0800" stop="20260717000000 +0800">
+    <programme channel="辽宁卫视" start="20260716233700 +0800" stop="20260717003000 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -9180,29 +9180,26 @@
     <programme channel="陕西体育休闲频道" start="20260716072000 +0800" stop="20260716075000 +0800">
         <title lang="zh">体育时间</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716075000 +0800" stop="20260716081000 +0800">
-        <title lang="zh">天下赛场</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260716081000 +0800" stop="20260716084000 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716075000 +0800" stop="20260716082000 +0800">
         <title lang="zh">剧场:夺金战-54</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716084000 +0800" stop="20260716090000 +0800">
-        <title lang="zh">陕西体育</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260716090000 +0800" stop="20260716101000 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716082000 +0800" stop="20260716093000 +0800">
         <title lang="zh">夺宝秦兵</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716101000 +0800" stop="20260716103000 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716093000 +0800" stop="20260716095000 +0800">
         <title lang="zh">专题节目</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716103000 +0800" stop="20260716103300 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716095000 +0800" stop="20260716102000 +0800">
+        <title lang="zh">直播：陕西省第十八届运动会火种采集仪式</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260716102000 +0800" stop="20260716102300 +0800">
         <title lang="zh">频宣+导视</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716103300 +0800" stop="20260716104800 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716102300 +0800" stop="20260716103800 +0800">
         <title lang="zh">体育会客厅</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716104800 +0800" stop="20260716110900 +0800">
-        <title lang="zh">陕西体育</title>
+    <programme channel="陕西体育休闲频道" start="20260716103800 +0800" stop="20260716110900 +0800">
+        <title lang="zh">体育时间</title>
     </programme>
     <programme channel="陕西体育休闲频道" start="20260716110900 +0800" stop="20260716113900 +0800">
         <title lang="zh">剧场:夺金战-55</title>
