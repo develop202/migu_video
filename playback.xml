@@ -453,8 +453,11 @@
     <programme channel="CCTV4中文国际" start="20260730210000 +0800" stop="20260730213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260730213000 +0800" stop="20260730223000 +0800">
+    <programme channel="CCTV4中文国际" start="20260730213000 +0800" stop="20260730220000 +0800">
         <title lang="zh">今日关注</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260730220000 +0800" stop="20260730223000 +0800">
+        <title lang="zh">走遍中国-2026-121</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260730223000 +0800" stop="20260730230300 +0800">
         <title lang="zh">新闻联播</title>
@@ -1728,17 +1731,17 @@
     <programme channel="CCTV4欧洲" start="20260730210000 +0800" stop="20260730213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260730213000 +0800" stop="20260730222800 +0800">
+    <programme channel="CCTV4欧洲" start="20260730213000 +0800" stop="20260730220000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260730222800 +0800" stop="20260730231300 +0800">
-        <title lang="zh">动画城(四套)-2026-202</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260730231300 +0800" stop="20260730235900 +0800">
+    <programme channel="CCTV4欧洲" start="20260730220000 +0800" stop="20260730224600 +0800">
         <title lang="zh">温州三家人第16集</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260730235900 +0800" stop="20260730235900 +0800">
+    <programme channel="CCTV4欧洲" start="20260730224600 +0800" stop="20260730233200 +0800">
         <title lang="zh">温州三家人第17集</title>
+    </programme>
+    <programme channel="CCTV4欧洲" start="20260730233200 +0800" stop="20260730235900 +0800">
+        <title lang="zh">中国文艺-2026-150</title>
     </programme>
     <channel id="CCTV4美洲">
         <display-name lang="zh">CCTV4美洲</display-name>
@@ -1857,17 +1860,17 @@
     <programme channel="CCTV4美洲" start="20260730210000 +0800" stop="20260730213000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260730213000 +0800" stop="20260730222800 +0800">
+    <programme channel="CCTV4美洲" start="20260730213000 +0800" stop="20260730220000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260730222800 +0800" stop="20260730231300 +0800">
+    <programme channel="CCTV4美洲" start="20260730220000 +0800" stop="20260730224500 +0800">
         <title lang="zh">精彩音乐汇（海外版）-2026-205</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260730231300 +0800" stop="20260730235800 +0800">
+    <programme channel="CCTV4美洲" start="20260730224500 +0800" stop="20260730233000 +0800">
         <title lang="zh">动画城(四套)-2026-202</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260730235800 +0800" stop="20260730235900 +0800">
-        <title lang="zh">海峡两岸-2026-210</title>
+    <programme channel="CCTV4美洲" start="20260730233000 +0800" stop="20260730235900 +0800">
+        <title lang="zh">国家记忆-2026-77</title>
     </programme>
     <channel id="CGTN外语纪录">
         <display-name lang="zh">CGTN外语纪录</display-name>
