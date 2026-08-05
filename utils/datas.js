@@ -1,5 +1,5 @@
 // 更新时间
-const repoLinkUpdateTimestamp = 1785892675640
+const repoLinkUpdateTimestamp = 0
 // 回放
 const cntvNames = {
   "CCTV1综合": "cctv1",
@@ -26,6 +26,7 @@ const cntvNames = {
 
 // 域名白名单
 const domainWhiteList = [
+  "hlszymgsplive.miguvideo.com:8080",
   "hlsztemgsplive.miguvideo.com:8080",
   "hlsbkmgsplive.miguvideo.com",
   "tvpull.dxhmt.cn:9081",
