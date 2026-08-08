@@ -43,8 +43,8 @@ async function getAllURL(channelImage) {
   const domains = {}
   let sumChannel = 0
   let status = 0
-  const headers = { Referer: "http://pro.fengcaizb.com" }
-  await fetch("http://pro.fengcaizb.com/channels/pro.gz", {
+  const headers = { Referer: "https://pro.fengcaizb.com" }
+  await fetch("https://pro.fengcaizb.com/channels/pro.gz", {
     headers: headers
   }).then(async pro_gz => {
     // await fetch("http://ds.fengcaizb.com/channels/dszb3.gz").then(async pro_gz => {
@@ -90,7 +90,7 @@ async function getAllURL(channelImage) {
         if (decryptURL.startsWith("sys_http")) {
           decryptURL = decryptURL.replace("sys_", "")
         }
-        if (!decryptURL.startsWith("http")) {
+        if (!decryptURL.startsWith("http://") && !decryptURL.startsWith("https://")) {
           // printYellow(`${i} ${channel?.title} 格式错误, 过滤`)
           continue
         }
