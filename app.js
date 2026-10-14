@@ -58,16 +58,8 @@ const server = http.createServer(async (req, res) => {
   // printGreen("")
   printMagenta("请求地址：" + url)
 
-  if (method === "HEAD") {
-    res.writeHead(200, {
-      "Content-Type": "application/json;charset=UTF-8",
-    });
-    res.end();
-    loading = false;
-    return;
-  }
-
-  if (method != "GET") {
+  // HEAD shares GET routing; Node's HTTP server omits the response body.
+  if (method != "GET" && method != "HEAD") {
     res.writeHead(200, { 'Content-Type': 'application/json;charset=UTF-8' });
     res.end(JSON.stringify({
       data: '请使用GET请求',
