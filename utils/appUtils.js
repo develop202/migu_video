@@ -107,7 +107,7 @@ async function channel(url, urlUserId, urlToken) {
   let resObj = {}
   try {
     // 未登录请求720p
-    if (rateType >= 3 && (urlUserId == "" || urlToken == "")) {
+    if (rateType >= 3 && (!urlUserId || !urlToken)) {
       resObj = await getAndroidURL720p(pid)
     } else {
       resObj = await getAndroidURL(urlUserId, urlToken, pid, rateType)
